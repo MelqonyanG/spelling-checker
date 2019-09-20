@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b05cdc73967ec79e8fc69212b5f6f79a",
+    "revision": "35f5f2f1f4eeecc82df5d7b7ab8fb5d1",
     "url": "/spelling-checker/index.html"
   },
   {
