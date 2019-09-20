@@ -38,12 +38,17 @@ class App extends React.Component {
   }
 
   componentDidMount(){
-    fetch('/words.txt')
-    .then((r) => r.text())
-    .then(text  => {
-      this.setState({words: text.split('\n')});
-    }) 
-    
+    var request = new XMLHttpRequest();
+    request.open('GET', 'https://melqonyang.github.io/spelling-checker/words.txt', true);
+    request.send(null);
+    request.onreadystatechange = () => {
+        if (request.readyState === 4 && request.status === 200) {
+            var type = request.getResponseHeader('Content-Type');
+            if (type.indexOf("text") !== 1) {
+                this.setState({words: request.responseText.split('\n')});
+            }
+        }
+    }
   }
 
   handleChange = (event, newValue) => {
