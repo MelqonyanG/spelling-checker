@@ -1,94 +1,92 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import SwipeableViews from 'react-swipeable-views';
-import { makeStyles, useTheme } from '@material-ui/core/styles';
+import { withStyles } from "@material-ui/core/styles";
 import AppBar from '@material-ui/core/AppBar';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import Typography from '@material-ui/core/Typography';
-import Box from '@material-ui/core/Box';
+import View from './View';
+import Add from './Add';
+import Check from './Check';
 
-function TabPanel(props) {
-  const { children, value, index, ...other } = props;
-
+function TabContainer(props) {
   return (
-    <Typography
-      component="div"
-      role="tabpanel"
-      hidden={value !== index}
-      id={`full-width-tabpanel-${index}`}
-      aria-labelledby={`full-width-tab-${index}`}
-      {...other}
-    >
-      <Box p={3}>{children}</Box>
+    <Typography component="div" style={{ padding: 8 * 3 }}>
+      {props.children}
     </Typography>
   );
 }
 
-TabPanel.propTypes = {
-  children: PropTypes.node,
-  index: PropTypes.any.isRequired,
-  value: PropTypes.any.isRequired,
+TabContainer.propTypes = {
+  children: PropTypes.node.isRequired,
 };
 
-function a11yProps(index) {
-  return {
-    id: `full-width-tab-${index}`,
-    'aria-controls': `full-width-tabpanel-${index}`,
-  };
-}
-
-const useStyles = makeStyles(theme => ({
+const styles = {
   root: {
-    backgroundColor: theme.palette.background.paper,
-    width: 500,
-  },
-}));
+    flexGrow: 1,
+    width: '100%'
+  }
+};
 
-export default function FullWidthTabs() {
-  const classes = useStyles();
-  const theme = useTheme();
-  const [value, setValue] = React.useState(0);
-
-  function handleChange(event, newValue) {
-    setValue(newValue);
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      words: [], 
+      value: 0
+    };
   }
 
-  function handleChangeIndex(index) {
-    setValue(index);
+  componentDidMount(){
+    fetch('/words.txt')
+    .then((r) => r.text())
+    .then(text  => {
+      this.setState({words: text.split('\n')});
+    }) 
+    
   }
 
-  return (
-    <div className={classes.root}>
-      <AppBar position="static" color="default">
+  handleChange = (event, newValue) => {
+    this.setState({value: newValue});
+  }
+
+  addWord = (word) => {
+    const { words } = this.state;
+    words.unshift(word);
+    this.setState({words: words})   
+  }
+
+  render() {
+    const { classes } = this.props;
+    const { value, words } = this.state;
+     return (
+      <div className={classes.root}>
+      <AppBar position="static" style={{backgroundColor: '#D6DBDF'}}>
         <Tabs
           value={value}
-          onChange={handleChange}
+          onChange={this.handleChange}
           indicatorColor="primary"
           textColor="primary"
-          variant="fullWidth"
-          aria-label="full width tabs example"
+          variant="scrollable"
+          scrollButtons="auto"
         >
-          <Tab label="Item One" {...a11yProps(0)} />
-          <Tab label="Item Two" {...a11yProps(1)} />
-          <Tab label="Item Three" {...a11yProps(2)} />
+          <Tab label="Դիտել ամբողջ ցուցակը" />
+          <Tab label="Ստուգել" />
+          <Tab label="Ավելացնել" />
         </Tabs>
       </AppBar>
-      <SwipeableViews
-        axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'}
-        index={value}
-        onChangeIndex={handleChangeIndex}
-      >
-        <TabPanel value={value} index={0} dir={theme.direction}>
-          Item One
-        </TabPanel>
-        <TabPanel value={value} index={1} dir={theme.direction}>
-          Item Two
-        </TabPanel>
-        <TabPanel value={value} index={2} dir={theme.direction}>
-          Item Three
-        </TabPanel>
-      </SwipeableViews>
+      {value === 0 && <TabContainer>
+        <View words={words} />
+      </TabContainer>}
+      {value === 1 && <TabContainer>
+        <Check words={words} />
+      </TabContainer>}
+      {value === 2 && <TabContainer>
+        <Add words={words} addWord={this.addWord}/>
+      </TabContainer>}
     </div>
-  );
+    );
+  }
 }
+
+export default withStyles(styles)(App);
