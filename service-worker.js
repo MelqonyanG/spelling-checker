@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spelling-checker/precache-manifest.10a293ff37bdc21a7cb84e5f40aba863.js"
+  "/spelling-checker/precache-manifest.fb88a97ccfe89a315e1ce005c377d4a1.js"
 );
 
 self.addEventListener('message', (event) => {
