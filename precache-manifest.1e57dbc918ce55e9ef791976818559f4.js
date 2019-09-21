@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2dfe9e4be8741fd6ded9bb684c1b254",
+    "revision": "4a95bc3fd0e8cccbd67defae575f5f95",
     "url": "/spelling-checker/index.html"
   },
   {
-    "revision": "8483536b9c427e092f3c",
+    "revision": "f18481ab590f0a48039a",
     "url": "/spelling-checker/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "10a04fa6a37aa222581a",
-    "url": "/spelling-checker/static/js/2.171e0450.chunk.js"
+    "revision": "8db2e770d4620f1dc9ab",
+    "url": "/spelling-checker/static/js/2.029e5794.chunk.js"
   },
   {
-    "revision": "8483536b9c427e092f3c",
-    "url": "/spelling-checker/static/js/main.06388225.chunk.js"
+    "revision": "f18481ab590f0a48039a",
+    "url": "/spelling-checker/static/js/main.bc023172.chunk.js"
   },
   {
     "revision": "4162c4f2092cb9e91222",
