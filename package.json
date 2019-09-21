@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
+    "material-table": "^1.50.0",
     "react-swipeable-views": "^0.13.3"
   }
 }
