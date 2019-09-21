@@ -29,7 +29,7 @@ const styles = {
 
   handleKeyPress = event => {
     if (event.key === "Enter"){
-        if (!this.props.words.includes(this.state.word)){
+        if (!this.props.words.includes(this.state.word) && this.state.word.length > 0){
             this.props.addWord(this.state.word);
         }
         this.setState({word: ""})        
