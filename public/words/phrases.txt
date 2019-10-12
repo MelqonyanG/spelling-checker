@@ -1,0 +1,737 @@
+to bear on * վերաբերել
+to blow in * հայտնվել
+to blow in * հանկարծակի գալ․
+to blow out * հանգցնել
+to blow out * մարել
+to blow over * անցնել (ամպրոպ, ճգնաժամ)
+to blow up * պայթեցնել
+to break down * ջարդել
+to break down * կոտրել
+to break down * ջարդվել
+to break down * կոտրվել
+to break into * ներխուժել
+to break off * հանկարծակի դադարեցնել
+to break out * բռնկվել
+to break out * սկսվել
+to bring about * առաջացնել
+to bring off * կատարել
+to bring off * իրագործել
+to bring on * առաջացնել
+to bring on * հարուցել
+to bring out * երևան բերել
+to bring out * հրատարակել
+to bring to * ուշքի բերել
+to bring up * դաստիարակել
+to burst out * բռնկվել
+to buy up * գնել ամբողջ ապրանքը
+to call back * ետ կանչել
+to call for * գալ մեկի հետևից
+to call on * այցելել
+to call up * զանգահարել
+to calm down * հանգստացնել
+to care about * հոգալ
+to care for * համակրել
+to carry on * շարունակել
+to carry on * կատարել
+to carry out * կատարել
+to carry out * իրագործել
+to carry over * փոխադրել
+to carry through * ավարտել
+to clear up * պարզել
+to clear up * պարզվել
+to close down * փակել մշտապես
+to close down * փակվել մշտապես
+to close up * փակվել ժամանակավորապես
+to close up * փակել ժամանակավորապես
+to come across * պատահաբար հանդիպել
+to come out * դուրս գալ
+to come out * երևան գալ
+to come over * գալ
+to come over * այցելել
+to come through * հաղթահարել
+to come to * ուշքի գալ
+to count in * ներառել
+to count off * հաշվել
+to count out * հաշվի չառնել
+to cut down * կրճատել
+to cut off * կտրել
+to cut off * անջատել
+to cut out * ձևել կտորը
+to cut out * կտրել
+to die down * մարել ձայնը
+to die away * մարել
+to die off * անհետանալ
+to do over * նորից անել
+to do over * կրկնել
+to do up * նորոգել
+to draw up * գրել
+to draw up * կազմել փաստաթուղթ
+to drive out * դուրս մղել
+to drive out * քշել
+to drop in * անցնել
+to fall off * պակասել
+to fall through * ձախողվել
+to fall under * դասակարգվել
+to figure out * հաշվել
+to figure out * հասկանալ
+to figure out * ըմբռնել
+to fill in * լրացնել
+to fill in * լցնել
+to fill out * լցնել
+to fill out * լցվել
+to fill up * լցնել
+to fill up * լրացնել
+to find out * պարզել
+to find out * տեղեկանալ
+to get across * հասկացնել տալ
+to get in * ներս մտնել
+to get off * իջնել փոխադրամիջոցից
+to get on * բարձրանալ փոխադրամիջոց
+to get out * դուրս գալ
+to get over * հաղթահարել
+to get over * առողջանալ
+to get through * ավարտել
+to get through with * ավարտել
+to get up * անկողնուց վեր կենալ
+to give away * մատնել
+to give back * վերադարձնել
+to give in * զիջել
+to give in * տեղի տալ
+to give in * հանձնվել
+to give off * արձակել հոտ
+to give off * տարածել հոտ
+to give out * բաժանել
+to go out * դուրս գալ
+to go out * հանգչել
+to go out * մարել
+to go off * պայթել
+to go off * կրակել
+to go over * նորից կարդալ
+to go over * վերանայել
+to go over * կրկնել
+to go with * համապատասխանել
+to go with * սազել
+to hand down * կտակել
+to hand down * ավանդ թողնել
+to hand in * հանձնել
+to hand out * բաժանել
+to hand out * բաշխել
+to hand over * հանձնել մեկի միջոցով
+to hand over * տալ մեկի միջոցով
+to hang up * հեռախոսի լսափողը վայր դնել
+to have over * հյուրեր ունենալ
+to hear from * լուր ունենալ
+to hear from * տեղեկություն ունենալ
+to hold off * հետաձգել
+to hold out * համառել
+to hold up * ուշացնել
+to hold up * կանգնեցնել
+to keep away * թաքցնել
+to keep away * հեռու պահել
+to keep on * շառունակել
+to keep off * հեռու մնալ
+to keep up * չվհատվել
+to keep up * բարձր պահել գները
+to leave out * բաց թողնել
+to let down * հիասթափեցնել
+to let down * հուսախաբ անել
+to let down * դժվար կացության մեջ դնել
+to let down * անհարմար կացության մեջ դնել
+to let in * ներս թողնել
+to let out * լայնացնել հագուստը
+to let out * երկարացնել հագուստը
+to let up * դադարել
+to let up * պակասել
+to let up * ազատել
+to look after * խնամել
+to look after * հոգ տանել
+to look for * փնտրել
+to look over * աչքի անցկացնել
+to look over * բաց թողնել
+to look through * աչքի անցկացնել
+to look up * վեր նայել
+to look up * փնտրել բառեր բառարանում
+to make up * լրացնել
+to make up * հնարել
+to make up * հորինել
+to move in * մուտք գործել
+to move out * դուրս գալ
+to pass away * վախճանվել
+to pass out * բաժանել
+to pass over * գիտակցությունը կորցնել
+to pay back * հատուցել
+to pay back * վերադարձնել գումարը
+to pick on * ծաղրել 
+to pick on * քննադատել
+to pick out * ընտրել
+to pick up * բարձրացնել գետնից
+to play down * նվազեցնել ինչ֊որ բանի կարևորությունը
+to play up * բարձրացնել ինչ֊որ բանի կարևորությունը
+to point out * մատնանշել
+to point out * ցույց տալ
+to pull down * քանդել
+to pull in * ժամանել գնացք
+to pull out * հեռանալ գնացք
+to pull through * փրկվել
+to pull through * ողջ մնալ
+to pull through * ապաքինվել
+to put away * հավաքել իրերը տեղը դնել
+to put down * գրի առնել
+to put off * հետաձգել
+to put on * հագնել
+to put out * մարել
+to put out * անջատել
+to quiet down * հանգստացնել
+to quiet down * հանգստանալ
+to quiet down * հանդարտվել
+to ring off * ավարտել հեռախոսային խոսակցությունը
+to ring up * զանգահարել
+to rule out * բացառել
+to run across * պատահաբար հանդիպել
+to run against * մրցակցել մեկի հետ ընտրություններում
+to run against for * մրցակցել մեկի հետ ընտրություններում
+to run for * մասնակցել ինչ֊որ պաշտոնի համար հայտարարված ընտրություններին
+to run into * պատահաբար հանդիպել
+to run out * վերջանալ
+to run out * սպառվել
+to run out * ծախսվել
+to run over * վրաերթի ենթարկել
+to run over * վրայից անցնել
+to save up * տնտեսել
+to see about * զբաղվել 
+to see about * կազմակերպել
+to sell out * ծախել ամբողջ ապրանքը
+to set up * կանգնեցնել
+to set up * հիմնել
+to settle down * ձեռնարկել
+to settle down * սկսել նոր կյանք
+to settle on * ընտրել
+to settle on * վերջնական որոշում ընդունել
+to show up * երևալ
+to show up * հայտնվել
+to shut off * անջատել
+to shut off * մեկուսացնել
+to slow down * դանդաղել
+to slow down * դանդաղեցնել
+to stand by * օգնել
+to stand by * թիկունքին կանգնել
+to stand for * նշանակել
+to stand out * աչքի ընկնել
+to stand up * կանգնել
+to stand up * վեր կենալ
+to stand up * դիմանալ
+to stick to * կպչել
+to stick to * համառորեն հետևել
+to stick to * կառչել
+to start off * ճանապարհ ընկնել
+to start out * պատրաստվել
+to start out * մտադրվել մի բան անելու
+to start up * ծագել
+to start up * առաջանալ
+to start up * տեղից վեր թռչել
+to take after * նմանվել մեկին
+to take in * հասկանալ
+to take in * խաբել
+to take in * փոքրացնել հագուստը
+to take off * հանել հագուստը
+to take out * հանել 
+to take out * վերացնել
+to take out * դուրս բերել
+to take over * հանձն առնել
+to take over * ստանձնել
+to take up * սկսել
+to take up * ձեռնարկել
+to tell on * հաղորդել
+to tell on * մատնել
+to think over * խորհել
+to think up * հնարել
+to think up * հորինել
+to think up * ստեղծել
+to throw away * դեն շպրտել
+to throw out * դեն գցել
+to touch on * շոշափել
+to touch upon * շոշափել
+to touch up * վերջին շտրիխներն անել
+to touch up * ավարտել
+to try on * փորձել հագուստը
+to try out * փորձարկել
+to try out * փորձել
+to turn down * մերժել
+to turn down * չընդունել
+to turn in * հանձնել
+to turn in * պառկել քնել
+to turn off * անջատել լույսը
+to turn off * փակել ծորակը
+to turn on * միացնել լույսը
+to turn on * բացել ծորակը
+to turn out * արտադրել
+to turn out * հանգցնել լույսը
+to turn out * դուրս բերել
+to turn out * վռնդել
+to turn up * հանկարծակի գալ
+to turn up * հայտնվել
+to use up * սպառել
+to use up * մինչև վերջ օգտագործել
+to wake up * արթնանալ
+to wake up * արրթնացնել
+to watch out * նախազգուշացնել
+to wear off * մեղմանալ
+to wear off * անցնել
+to wear off * հեռանալ
+to wear out * մաշել
+to wind up * վերջացնել
+to wind up * եզրակացնել
+to work out * մշակել
+to work out * մարզվել
+to write down * գրի առնել
+to write out * արտագրել
+to provide assurance * երաշխավորել
+to put smth into one's pocket * ինչ֊որ բան դնել մեկի գրպանի մեջ
+to take smth out of the bag * ինչ֊որ բան հանել պայուսակից
+to speak on the telephone * խոսել հեռախոսով
+to send smth by telephone * ինչ֊որ բան ուղղարկել հեռախոսով
+to listen to the radio * ռադիո լսել
+to hear smth on the radio * ինչ֊որ բան լսել ռադիոյով
+to watch TV * հեռուստացույց դիտել
+to see smth on TV * ինչ֊որ բան տեսնել հեռուստացույցով
+on the first of May * մայիսի մեկին
+on my day off * իմ ազատ օրը
+to enter a room * սենյակ մտնել
+to go into the room * սենյակ մտնել
+to come into the room * սենյակ մտնել
+to leave the room * սենյակից դուրս գալ
+to go out of the room * սենյակից դուրս գալ
+to come out of the room * սենյակից դուրս գալ
+to look at smb * նայել ինչ֊որ մեկին
+to look at smth * նայել ինչ֊որ բանի
+to look for smth * ինչ֊որ բան փնտրել
+to look up a word in the dictionary * բառը փնտրել բառարանում
+to look through smth * թերթել ինչ֊որ բան
+to look through the window * պատուհանից դուրս նայել
+to look out of the window * window * պատուհանից դուրս նայել
+to open the book at page five * գիրքը բացել հինգերորդ էջը
+to read the text on page ten * կարդալ տասներորդ էջի տեքստը
+to go to bed * պառկել քնելու
+to go to sleep * քնել
+to fall asleep * քնել
+to be fast asleep * խորը քնած լինել
+to be sound asleep * խորը քնած լինել
+to be awake * արթուն լինել
+to get up * վեր կենալ
+at the lesson * դասի ժամանակ
+during the lesson * դասի ժամանակ
+in class * դասի ժամանակ
+to go to the lesson * դասի գնալ
+to go to classes * դասի գնալ
+to be come in time for the lesson * ժամանակին գալ դասի
+to be in time for the lesson * ժամանակին գալ դասի
+to go to work * աշխատանքի գնալ
+before work * աշխատանքից առաջ
+after work * աշխատանքից հետո
+in a week * շաբաթվա ընթացքում
+once a day * օրը մեկ անգամ
+twice a month * ամիսը երկու անգամ
+to be good at smth * ինչ֊որ բանից լավ լինել
+to be good at doing smth * ինչ֊որ բան անելուց լավ լինել
+to do well in * ինչ֊որ բանից լավ լինել
+to live far from * հեռու ապրել ինչ֊որ տեղից
+to live a long way from * հեռու ապրել ինչ֊որ տեղից
+to live near the place * մոտ ապրել ինչ֊որ տեղից
+to go for a walk * զբոսանքի գնալ
+to take a walk * զբոսանքի գնալ
+to take smb out for a walk * ինչ֊որ մեկին զբոսանքի տանել
+to go on an excursion * էքսկուրսիայի գնալ
+at the weekend * շաբաթվա վերջում
+on weekends * շաբաթվա վերջի օրերին
+on sunday morning * կիրակի առավոտյան
+on sunday evening * կիրակի երեկոյան
+tonight * այսօր գիշեր
+this evening * այսօր երեկոյան
+tomorrow morning * վաղը առավոտյան
+this time * այս անգամ
+next time * հաջորդ անգամ
+last time * անցյալ անգամ
+to work hard at smth * շատ աշխատել ինչ֊որ բանի վրա
+to work much at smth * շատ աշխատել ինչ֊որ բանի վրա
+to be at college * սովորել քոլեջում
+to go to college * քոլեջ ընդունվել
+to leave school * դպրոցն ավարտել
+to finish school * դպրոցն ավարտել
+to graduate an university * համալսարանն ավարտել
+to graduate from an university * համալսարանն ավարտել
+to graduate an institute * ինստիտուտն ավարտել
+to graduate from an institute * ինստիտուտն ավարտել
+to be like * նման լինել
+to go to hospital * պառկել հիվանդանոցում
+to be in hospital * լինել հիվանդանոցում
+on weekdays * աշխատանքային օրերին
+to spend time on smth * ժամանակ ծախսել ինչ֊որ բանի վրա
+to spend money on smth * փող ծախսել ինչ֊որ բանի վրա
+early in the morning * վաղ առավոտյան
+late in the evening * ուշ երեկոյան
+to be in town * քաղաքում լինել
+to be in the country * գյուղում լինել
+to go to the country * քաղաքից դուրս գնալ
+to go out of town * քաղաքից դուրս գնալ
+to come to town * քաղաք գալ
+to return to town * քաղաք վերադառնալ
+to play chess * շախմատ խաղալ
+to play volleyball * վոլեյբոլ խաղալ
+to play the piano * դաշնամուր նվագել
+to play the guitar * կիթառ նվագել
+at once * անմիջապես
+immediatelly * անմիջապես
+on the spot * անմիջապես
+right away * անմիջապես
+to ask a question * հարց տալ
+to answer a question * հարցին պատասխանել
+the answer to the question * հարցի պատասխանը
+to ask smb for smth * ինչ֊որ բան խնդրել ինչ֊որ մեկից
+with pleasure * հաճույքով
+at 10 o'clock * ժամը տասին
+to go to a place * մեկնել ինչ֊որ տեղ
+to leave for a place * մեկնել ինչ֊որ տեղ 
+to go from a place * մեկնել ինչ֊որ տեղից 
+to leave a place * մեկնել ինչ֊որ տեղից
+in the corner of the room * սենյակի անկյունում
+at the corner of the street * փողոցի անկյունում
+a book by * գիրք գրված ինչ֊որ մեկի կողմից
+to leave smth with smb * թողնել ինչ֊որ բան ինչ֊որ մեկի մոտ
+to make a report on smth * զեկուցում կարդալ ինչ֊որ բանի վերաբերյալ
+what is the matter with you * ինչ է պատահել քեզ հետ
+what is happened to you * ինչ է պատահել քեզ հետ
+to hurry to a lesson * շտապել դասի
+to hurry up * շտապեք
+to be afraid of smb * վախենալ ինչ֊որ մեկից
+to be afraid of smth * վախենալ ինչ֊որ բանից
+to put a book in its place * գիրքը դնել իր տեղը
+to make notes at the lecture * գրառում կատարել դասախոսության ժամանակ
+at smb's place * ինչ֊որ մեկի տանը
+to have a good time * լավ ժամանակ անցկացնել
+to spend a good time * լավ ժամանակ անցկացնել
+once a week * շաբաթը մեկ անգամ
+once a month * ամիսը մեկ անգամ
+once a year * տարին մեկ անգամ
+at the beginning * սկզբում
+at the end * վերջում
+from beginning to end * սկզբից  մինչև վերջ
+in the end * ի վերջո
+finally * ի վերջո
+eventually * ի վերջո
+in the middle of the room * սենյակի մեջտեղում
+in the centre of the town * քաղաքի կենտրոնում
+early in may * մայիսի սկզբին
+late in may * մայիսի վերջին
+to prepare for an examination * քննության պատրաստվել
+to get ready for an examination * քննության պատրաստվել
+to get a mark for smth * փվանշան ստանալ ինչ֊որ բանից
+to be on holiday * արձակուրդի մեջ լինել
+to go holiday * գնալ արձակուրդ
+to go to a place for one's holiday * ինչ֊որ տեղ գնալ արձակուրդը անցկացնելու
+at the sea * ծովափին
+by the sea * ծովափին
+at the seaside * ծովափին
+on the seashore * ծովափին
+on the coast * ծովափին
+to lie in the sun * պառկել արևի տակ
+to sunbathe * արևակեզ լինել
+to hear from smb * լուր ստանալ ինչ֊որ մեկից
+it takes me * ինձանից պահանջվում է
+it takes her or him * նրանից պահանջվում է
+it takes us * մեզանից պահանջվում է
+it takes them * նրանցից պահանջվում է
+to miss the lecture in literature * բաց թողնել գրականության դասախոսությունը
+to retire at the age of 65 * թոշակի անցնել 65 տարեկան հասակում
+at an early age * վաղ տարիքում
+to stay at a hotel * մնալ հյուրանոցում
+a place of interest * տեսարժան վայր
+a sight * տեսարժան վայր
+to go sightseeing * գնալ տեսարժան վայրեր
+on the way to a place * ինչ֊որ տեղ գնալու ճանապարհին
+in the suburbs * արվարձանում
+in the nit skirts * արվարձանում
+in the nit outskirts * արվարձանում
+to work at a factory * աշխատել գործարանում
+to work in a factory * աշխատել գործարանում
+to join smb for smth * միանալ ինչ֊որ մեկին ինչ֊որ բանի համար
+to do smth * ինչ֊որ բան անել
+to joke with smb * կատակել ինչ֊որ մեկի հետ
+to liberate from the enemy * ազատագրել թշնամուց
+to turn to smb * շրջվել դեպի ինչ֊որ մեկը
+to turn to smb * դիմել ինչ֊որ մեկին
+to sit next to * նստել ինչ֊որ մեկի կողքին
+to be surprised at * զարմանալ ինչ֊որ բանի վրա
+to surprise * զարմացնել
+to smb's surprise * ի զարմանք
+to smb's horror * ի սարսափ
+to speak in turn * խոսել հերթով
+to make out smth * հասկանալ
+to stand in a queue * կանգնել հերթում
+to take care of smb * խնամել ինչ֊որ մեկին
+to look after smb * խնամել ինչ֊որ մեկին
+to be difficult for smb * դժվար թվալ ինչ֊որ մեկին
+to be grateful to smb * երախտապարտ լինել ինչ֊որ մեկին
+to remind smb about smth * հիշեցնել ինչ֊որ մեկին ինչ֊որ բանի մասին
+to remind smb * հիշեցնել ինչ֊որ մեկին
+the one hand * մի կողմից
+on the other hand * մյուս կողմից
+for one thing * մի կողմից
+for another thing * մյուս կողմից
+to announce on the radio * հայտարարել ռադիոյով
+to arrive in a country * ժամանել երկիր
+to arrive at hotel * ժամանել հյուրանոց
+to be in a good mood * լավ տրամադրության մեջ լինել
+to be in a bed mood * վատ տրամադրության մեջ լինել
+to be in high spirits * լավ տրամադրության մեջ լինել
+to be in low spirits * վատ տրամադրության մեջ լինել
+to be in danger * վտանգի մեջ լինել
+to be out of danger * վտանգից դուրս լինել
+to appear on the stage * հայտնվել բեմի վրա
+to greet with a storm of applause * դիմավորել բուռն ծափահարություններով
+to see in the distance * տեսնել հեռվում
+at a distance * հեռավորության վրա
+to belong to smb * պատկանել ինչ֊որ մեկին
+to jump for joy * ուրախությունից ցատկել
+to be crowded with * մարդաշատ լինել
+to be overcrowded * մարդաշատ լինել
+to be packed * մարդաշատ լինել
+to look round * շուրջը նայել
+to ask smb in * ինչ֊որ մեկին ներս հրավիրել
+to pass by * անցնել կողքով
+to owe smth to smb * պարտք լինել ինչ֊որ բան ինչ֊որ մեկին
+to make progress in smth * առաջադիմել
+to warn smb against smth * նախազգուշացնել ինչ֊որ բանի դեմ
+to be interested in smth * հետաքրքրվել ինչ֊որ բանով
+to worry about smth * անհանգստանալ ինչ֊որ բանի համար
+to worry about smb * անհանգստանալ ինչ֊որ մեկի համար
+to operate on smb * վիրահատել
+to climb up a tree * ծառ բարձրանալ
+to climb down a tree * ծառից իջնել
+to be fond of * սիրել
+to be keen on * սիրել
+to enjoy smth * բավականություն ստանալ
+to miss the train * ուշանալ գնացքից
+to catch the train * գնացքին հասնել
+by the way * ի միջիայլոց
+this film is on at theater Yerevan * այս ֆիլմը գնում է կինո Երևանում
+to be all the same to smb * միևնույն է
+to make an impression on smb * տպավորություն թողնել ինչ֊որ մեկի վրա
+to make an impression upon smb * տպավորություն թողնել ինչ֊որ մեկի վրա
+to be packed * լեփ֊լեցուն լինել
+to play the part of Juliet * Ջուլիետի դերը խաղալ
+to be a success * հաջողություն ունենալ
+to play a trick on smb * խաղ խաղալ ինչ֊որ մեկի գլխին
+at last * վերջապես
+at least * առնվազն
+to hide smth away from smb * թաքցնել ինչ֊որ բան ինչ֊որ մեկից
+to be behind smb in smth * ինչ֊որ բանով հետ մնալ ինչ֊որ մեկից
+to be behind smb in smth * ինչ֊որ բանով հետ լինել ինչ֊որ մեկից
+to make a voyage to * ծովային ճանապարհորդություն կատարել դեպի
+in a loud voice * բարձր ձայնով
+in a low voice * ցածր ձայնով
+to speak in whisper * խոսել շշուկով
+to go in the direction of * գնալ ինչ֊որ բանի ուղղությամբ
+to the east of * դեպի արևելք
+to the north of * դեպի հյուսիս
+to the south of * դեպի հարավ
+to the west of * դեպի արևմուտք
+in the east * արևելքում
+in the north * հյուսիսում
+in the south * հարավում
+in the west * արևմուտքում
+on of these days * մոտ օրերս
+on of future * ապագայում
+the other day * մոտ օրերս
+the past * անցյալում
+the other day * նախորդ օրը
+to go on with one's work * շարունակել աշխատանքը
+to continue one's work * շարունակել աշխատանքը
+to look through one's glasses * նայել հեռադիտակի միջով
+to get angry with smb * զայրանալ ինչ֊որ մեկի վրա
+to be angry with smb * զայրացած լինել ինչ֊որ մեկի վրա
+to get angry at smb * զայրանալ ինչ֊որ մեկի վրա
+to be angry at smb * զայրացած լինել ինչ֊որ մեկի վրա
+to cry out * բացականչել
+to come up smb * մոտենալ ինչ֊որ մեկին
+to come up smth * մոտենալ ինչ֊որ բանի
+to go up smb * մոտենալ ինչ֊որ մեկին
+to go up smth * մոտենալ ինչ֊որ բանի
+to approach smb * մոտենալ ինչ֊որ մեկին
+to approach smth * մոտենալ ինչ֊որ բանի
+an hour and a half * մեկ ու կես ժամ
+half an hour * կես ժամ
+a quarter of an hour * քառորդ ժամ
+by train * գնացքով
+by bus * ավտոբուսով
+by plane * ինքնաթիռով
+in a car * ամտոմեքենայով
+in a taxi * տաքսիով
+to say goodbye to smb * ցտեսություն ասել ինչ֊որ մեկին
+to walk along a street * քայլել փողոցով
+a lump of sugar * մի կտոր շաքար
+to sell smth to smb * ինչ֊որ բան վաճառել ինչ֊որ մեկին
+to tell the time by a watch * ժամը ասել ժամացույցով
+to take part in smth * մասնակցել ինչ֊որ բանի
+to learn smth by heart * սովորել ինչ֊որ բան անգիր
+in the open air * բաց օդում
+to get on the bus * ավտոբուս նստել
+to get on the train * գնացք նստել
+to get on the plain * ինքնաթիռ նստել
+to get into car * մեքենա նստել
+to get off the bus * ավտոբուսից իջնել
+to get off the train * գնացքից իջնել
+to get off the plain * ինքնաթիռից իջնել
+to get out of a car * մեքենայից իջնել
+outside * դրսում
+inside * ներսում
+to take off * հանել
+to smile at smth * ժպտալ ինչ֊որ մեկին
+to smile at smb * ծիծաղել ինչ֊որ մեկի վրա
+to laugh at smth * ժպտալ ինչ֊որ մեկին
+to laugh at smb * ծիծաղել ինչ֊որ մեկի վրա
+to be pleased with smth * գոհ լինել ինչ֊որ բանից
+to be pleased with smb * գոհ լինել ինչ֊որ մեկից
+to be sure of smth * համոզված լինել ինչ֊որ բանում
+to agree with smb * համաձայնվել ինչ֊որ մեկի հետ
+to agree to smth * համաձայնվել ինչ֊որ բանի հետ
+to travel about a country * ճանապարհորդել երկրով
+to travel on business * ճանապարհորդել գործով
+to travel for pleasure * ճանապարհորդել հաճույքի համար
+to consist of * բաղկացած լինել
+none of us * մեզանից ոչ ոք
+none of you * ձեզանից ոչ ոք
+none of them * նրանցից ոչ ոք
+to be clear to smb * պարզ լինել ինչ֊որ մեկին
+to move to a place * տեղափոխվել
+to move into a place * տեղափոխվել
+in this way * այս ձևով
+to be popular with * մասսայականություն վայելել
+to fight against smth * պայքարել ինչ֊որ բանի դեմ
+to live at peace * ապրել խաղաղ պայմաններում
+to live in peace * ապրել խաղաղ պայմաններում
+to be on the front * ռազմաճակատում լինել
+to introduce smb to smb * ինչ֊որ մեկին ներկայացնել ինչ֊որ մեկին
+to get acquainted with smb * ծանոթանալ ինչ֊որ մեկի հետ
+to knock at the door * թակել դուռը
+at first * սկզբում
+a strong expression in one's eyes * տարօրինակ արտահայտություն մեկի աչքերում
+to sit up late * աշխատել մինչև գիշեր
+so far * առայսօր
+to pick up * քաղել
+to raise * բարձրացնել
+to pick up * բարձրացնել
+to obey smb * հնազանդվել ինչ֊որ մեկին
+to shout at smb * բղավել ինչ֊որ մեկի վրա
+to shout to * ձայն տալ
+all the time * ամբողջ ժամանակ
+to throw at * գցել
+to throw to * շպրտել
+to have to do with * գործ ունենալ
+i have nothing to do with him * ես նրա հետ գործ չունեմ
+to entertain * զվարճացնել
+to amuse oneself * զվարճանալ
+to send by airmail * ուղարկել ավիափոստով
+i have no money on me * ինձ մոտ փող չկա
+i have no money about me * ինձ մոտ փող չկա
+to drop in at a place * ինչ֊որ տեղ մտնել
+to be far ahead of smb * շատ առաջ լինել ինչ֊որ մեկից
+to hand in the copybooks * հանձնել տետրերը
+to fill in a form * լրացնել ֆորման
+to fill up a form * լրացնել ֆորման
+to be busy with smth * զբաղվել ինչ֊որ բանով
+to answer the question on the spot * հարցին պատասխանել տեղում
+in answer to * ի պատասխան
+in reply to * ի պատասխան
+on the same day * նույն օրը
+to tremble with excitement * դողալ հուզմունքից
+to hold smb by the hand * ինչ֊որ մեկի ձեռքից բռնել
+to pay attention to * ուշադրություն դարձնել
+to take notice of * ուշադրություն դարձնել
+to be at home * տանը լինել
+a cup of tea * մի բաժակ թեյ
+to get to a place * հասնել ինչ֊որ տեղ
+to reach a place * հասնել ինչ֊որ տեղ
+to be on duty * հերթապահ լինել
+to stay in town for a few days * մնալ քաղաքում մի քանի օրով
+to ask the way to the station * հարցնել կայարան տանող ճանապարհը
+to have smth for breakfast * նախաճաշի համար
+at dinner * ընթրիքի ժամանակ
+during dinner * ընթրիքի ժամանակ
+this week * այս շաբաթ
+last week * անցյալ շաբաթ
+next week * հաջորդ շաբաթ
+to study a subject at school * առարկա ուսումնասիրել դպրոցում
+to speak to smb about smth * խոսել ինչ֊որ մեկի հետ ինչ֊որ բանի մասին
+to speak with smb about smth * խոսել ինչ֊որ մեկի հետ ինչ֊որ բանի մասին
+how are you getting on? * ինչպես են գործերդ
+to get tired with * հոգնել ինչ֊որ բանից
+to be tired of * հոգնել ինչ֊որ բանից
+to play in the yard * խաղալ բակում
+to be ready for smth * պատրաստ լինել ինչ֊որ բանի համար
+to go to the office with smb * գնալ հիմնարկություն ինչ֊որ մեկի հետ
+to leave smb with one's friends * թողնել ինչ֊որ մեկին իր ընկերների հետ
+to look with interest * նայել հետաքրքրությամբ
+to take a seat * նստել ինչ֊որ մեկի կողքին
+to be seated * նստել ինչ֊որ մեկի կողքին
+to sit up * նստել պառկած տեղից
+to have meals with smb * սնվել ինչ֊որ մեկի հետ
+to be free * ազատ լինել
+to be busy with smth * զբաղված լինել ինչ֊որ բանով
+to be late for the train to London * ուշանալ Լոնդոն գնացող գնացքից
+to miss the train to London * բաց թողնել Լոնդոն գնացող գնացքը
+a man with dark hair * մուգ մազերով մարդ
+on the ground floor * առաջին հարկում
+in front of * դիմացը
+to be dead * մահացած լինել
+to be alive * կենդանի լինել
+at the market * շուկայում 
+at the exhibition * ցուցահանդեսում
+back address * հետադարձ հասցե
+to have trouble with smb * անախորժություն ունենալ ինչ֊որ մեկի հետ
+to go shopping * գնալ գնումներ կատարելու
+to do shopping * գնումներ կատարել
+to be good to smb * լավ վերաբերվել ինչ֊որ մեկին
+to study at the university * սովորել համալսարանում
+to change one's mind * մեկի մտադրությունը փոխել
+to make up one's mind * մտադրվել
+in the picture * նկարում
+on the map * քարտեզի վրա
+to look in surprise * նայել զարմացած
+to look in admiration * նայել հիացմունքով
+to go on foot * գնալ ոտքով
+to switch on * միացնել
+to switch off * անջատել
+to be full of * լիքը լինել
+earlier than usual * սովորականից շուտ
+at the station * կայարանում
+at the stop * կանգառում
+in others words * այլ կերպ ասած
+to invite to * հրավիրել
+to ask to * հրավիրել
+to have to * հրավիրել
+to write with a pen * գրել գրիչով
+to write with a pencil * գրել մատիտով
+to write in ink * գրել թանաքով
+to write in pen * գրել գրիչով
+to write in pencil * գրել մատիտով
+to make up a sentence * նախադասություն կազմել
+to be proud of * հպարտանալ
+at any rate * ամեն դեպքում
+in any case * ամեն դեպքում
+in spite of * չնայած
+although * չնայած
+though * չնայած
+even though * չնայած
+to marry smb * ամուսնանալ ինչ֊որ մեկի հետ
+to be married to smb * ամուսնացած լինել ինչ֊որ մեկի հետ
+to be covered with * ծածկված լինել
+to invite to dinner * հրավիրել ընթրիքի
+to be famous for smth * հայտնի լինել ինչ֊որ բանով
+to be sorry for smb * ցավալ ինչ֊որ մեկի համար
+to be sorry about smth * ցավալ ինչ֊որ բանի համար
+to do a word for word translation * կատարել բառացի թարգմանություն
+to speak from memory * խոսել հիշողությամբ
+in pencil * մատիտով
+with a pencil * մատիտով
+in ink * թանաքով
+to shrug one's shoulders * ուսերը թափ տալ

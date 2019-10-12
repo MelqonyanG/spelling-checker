@@ -1,0 +1,184 @@
+arise-arose-arisen * ծագել
+arise-arose-arisen * բարձրանալ
+awake-awoke-awoken * արթնանալ
+awake-awoke-awoken * արթնացնել
+be-was/were-been * լինել
+bear-bore-born(e) * տանել
+bear-bore-born(e) * դիմանալ
+beat-beat-beaten * խփել
+beat-beat-beaten * բաբախել
+become-became-become * դառնալ
+begin-began-begun * սկսել
+begin-began-begun * սկսվել
+bend-bent-bent * թեքել
+bend-bent-bent * թեքվել
+bet-bet-bet * գրազ գալ
+bind-bound-bound * կապել
+bite-bit-bitten * կծել
+bleed-bled-bled * արյունահոսել
+blow-blew-blown * փչել
+break-broke-broken * կոտրել
+breed-bred-bred * աճեցնել
+bring-brought-brought * բերել
+broadcast-broadcast-broadcast * հաղորդել
+build-built-built * կառուցել
+burn-burnt/burned-burnt/burned * այրել
+burn-burnt/burned-burnt/burned * այրվել
+burst-burst-burst * պայթել
+burst-burst-burst * պատռվել
+buy-bought-bought * գնել
+can-could-… (been able) * կարողանալ
+catch-caught-caught * բռնել
+choose-chose-chosen * ընտրել
+cling-clung-clung * կառչել
+come-came-come * գալ
+cost-cost-cost * արժենալ
+creep-crept-crept * սողալ
+cut-cut-cut * կտրել
+deal-dealt-dealt * գործ ունենալ
+dig-dug-dug * փորել
+do-did-done * անել
+draw-drew-drawn * քաշել
+draw-drew-drawn * գծել
+draw-drew-drawn * նկարել
+dream-dreamt/dreamed-dreamt/dreamed * երազել
+drink-drank-drunk * խմել
+drive-drove-driven * քշել
+drive-drove-driven * վարել
+eat-ate-eaten * ուտել
+fall-fell-fallen * ընկնել
+feed-fed-fed * կերակրել
+feel-felt-felt * զգալ
+fight-fought-fought * կռվել
+fight-fought-fought * պայքարել
+find-found-found * գտնել
+fly-flew-flown * թռչել
+forbid-forbade-forbidden * արգելել
+forget-forgot-forgotten * մոռանալ
+forgive-forgave-forgiven * ներել
+freeze-froze-frozen * սառչել
+freeze-froze-frozen * սառեցնել
+get-got-got * ստանալ
+give-gave-given * տալ
+go-went-gone * գնալ
+grind-ground-ground * ցեխոտվել
+grow-grew-grown * աճել
+hang-hung-hung * կախել
+have-had-had * ունենալ
+hear-heard-heard * լսել
+hide-hid-hidden * թաքցնել
+hit-hit-hit * խփել
+hit-hit-hit * հարվածել
+hold-held-held * պահել
+hold-held-held * բռնել
+hurt-hurt-hurt * վնասել
+hurt-hurt-hurt * վիրավորել
+keep-kept-kept * պահել
+kneel-knelt-knelt * ծնկել
+kneel-knelt-knelt * չոքել
+know-knew-known * իմանալ
+know-knew-known * ճանաչել
+lay-laid-laid * դնել
+lead-led-led * առաջնորդել
+lean-leant/leaned-leant/leaned * հենել
+lean-leant/leaned-leant/leaned * հենվել
+learn-learnt/learned-learnt/learned * սովորել
+learn-learnt/learned-learnt/learned * իմանալ
+leave-left-left * թողնել
+leave-left-left * գնալ
+leave-left-left * հեռանալ
+lend-lent-lent * պարտք տալ
+let-let-let * թույլ տալ
+lie (in bed)-lay-lain * պառկել
+lie (in bed)-lay-lain * ընկած լինել
+lie (to not tell the truth)-lied-lied * ստել
+light-lit/lighted-lit/lighted * լուսավորվել
+light-lit/lighted-lit/lighted * լուսավորել
+lose-lost-lost * կորցնել
+make-made-made * անել
+may-might-… * հնարավոր լինել
+mean-meant-meant * մտադրվել
+meet-met-met * հանդիպել
+mow-mowed-mown/mowed * հնձել
+must-had to-… * ստիպված լինել
+overtake-overtook-overtaken * մեկի հետևից հասնել
+pay-paid-paid * վճարել
+put-put-put * դնել
+quit-quit-quit * դուրս գալ
+read-read-read * կարդալ
+ride-rode-ridden * գնալ ձիով
+ride-rode-ridden * գնալ մեքենայով
+ring-rang-rung * զնգալ
+ring-rang-rung * զանգահարել
+rise-rose-risen * բարձրանալ
+run-ran-run * վազել
+say-said-said * ասել
+see-saw-seen * տեսնել
+sell-sold-sold * վաճառել
+send-sent-sent * ուղարկել
+set-set-set * տեղադրել
+set-set-set * հիմնել
+shake-shook-shaken * թափահարել
+shave-shaved-shaven * սափրվել
+shed-shed-shed * թափվել
+shine-shone-shone * փայլել
+shoot-shot-shot * կրակել
+show-showed-shown * ցույց տալ
+shrink-shrank-shrunk * նեղանալ
+shut-shut-shut * ծածկել
+sing-sang-sung * երգել
+sink-sank-sunk * սուզվել
+sink-sank-sunk * խորտակվել
+sit-sat-sat * նստել
+sleep-slept-slept * քնել
+slide-slid-slid * սահել
+smell-smelt-smelt * հոտ քաշել
+smell-smelt-smelt * բուրել
+sow-sowed-sown/sowed * ցանել
+sow-sowed-sown/sowed * շաղ տալ
+speak-spoke-spoken * ասել
+spell-spelt/spelled-spelt/spelled * տառ առ տառ ասել
+spell-spelt/spelled-spelt/spelled * հեգել
+split-split-split * ճեղքել
+spend-spent-spent * անցկացնել
+spend-spent-spent * ծախսել
+spill-spilt/spilled-spilt/spilled * թափել
+spoil-spoilt/spoiled-spoilt/spoiled * փչացնել
+spit-spat-spat * թքել
+spread-spread-spread * տարածել
+spread-spread-spread * տարածվել
+stand-stood-stood * կանգնել
+steal-stole-stolen * գողանալ
+stick-stuck-stuck * խրել
+stick-stuck-stuck * կպչել
+sting-stung-stung * խայթել
+stink-stank-stunk * բուրել
+strike-struck-struck * խփել
+strike-struck-struck *հարվածել
+swear-swore-sworn * երդվել
+sweep-swept-swept * սլանալ
+sweep-swept-swept * սրբել
+sweep-swept-swept * ավլել
+swell-swelled-swollen/swelled * շնչել
+swim-swam-swum * լողալ
+swing-swung-swung * ճոճել
+take-took-taken * վերցնել
+teach-taught-taught * սովորեցնել
+tear-tore-torn * պատռել
+tell-told-told * ասել
+tell-told-told * պատմել
+think-thought-thought * մտածել
+throw-threw-thrown * նետել
+undergo-underwent-undergone * ենթարկվել
+understand-understood-understood * հասկանալ
+upset-upset-upset * տխրեցնել
+wake-woke-woken * արթնանալ
+wake-woke-woken * արթնացնել
+wear-wore-worn * հագնել
+wear-wore-worn * կրել
+weep-wept-wept * լացել
+weep-wept-wept * ողբալ
+will-would-… * կ
+win-won-won * հաղթել
+wind-wound-wound * հևալ
+write-wrote-written * գրել
