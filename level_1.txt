@@ -1,0 +1,22 @@
+first name * անուն
+last name * ազգանուն
+nickname * մականուն
+classmate * դասընկեր
+male * տղամարդ
+male * արական
+female * կին
+female * իգական
+zero * զրո
+one * մեկ
+two * երկու
+three * երեք
+four * չորս
+five * հինգ
+six * վեց
+seven * յոթ
+eight * ութ
+nine * ինը
+ten * տաս
+dot * կետ
+dash * գծիկ
+underscore * ընդգծում

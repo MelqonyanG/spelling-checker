@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spelling-checker/static/css/main.34de6062.chunk.css",
-    "main.js": "/spelling-checker/static/js/main.4a73bf44.chunk.js",
-    "main.js.map": "/spelling-checker/static/js/main.4a73bf44.chunk.js.map",
+    "main.js": "/spelling-checker/static/js/main.facd3a0f.chunk.js",
+    "main.js.map": "/spelling-checker/static/js/main.facd3a0f.chunk.js.map",
     "runtime-main.js": "/spelling-checker/static/js/runtime-main.9fa9160e.js",
     "runtime-main.js.map": "/spelling-checker/static/js/runtime-main.9fa9160e.js.map",
-    "static/js/2.171e0450.chunk.js": "/spelling-checker/static/js/2.171e0450.chunk.js",
-    "static/js/2.171e0450.chunk.js.map": "/spelling-checker/static/js/2.171e0450.chunk.js.map",
+    "static/js/2.7c6d4bf0.chunk.js": "/spelling-checker/static/js/2.7c6d4bf0.chunk.js",
+    "static/js/2.7c6d4bf0.chunk.js.map": "/spelling-checker/static/js/2.7c6d4bf0.chunk.js.map",
     "index.html": "/spelling-checker/index.html",
-    "precache-manifest.a00058267ae0ddd4436296ff807ebf2a.js": "/spelling-checker/precache-manifest.a00058267ae0ddd4436296ff807ebf2a.js",
+    "precache-manifest.692c135d67fbb4efb2fa06083e33093e.js": "/spelling-checker/precache-manifest.692c135d67fbb4efb2fa06083e33093e.js",
     "service-worker.js": "/spelling-checker/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/spelling-checker/static/css/main.34de6062.chunk.css.map"
   }

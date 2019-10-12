@@ -1,0 +1,956 @@
+sorry * ներողություն
+please * խնդրում եմ
+hello * ողջույն
+thank you * շնորհակալություն
+you are welcome * չարժի
+you are welcome * խնդրեմ
+what a pity * ինչ ափսոս
+goodbye * ցտեսություն
+people * մարդիկ
+man * տղամարդ
+men * տղամարդիկ
+woman * կին
+women * կանայք
+boy * տղա
+girl * աղջիկ
+guy * տղա
+acquaintance * ծանոթ
+acquqintance * ծանոթություն
+chief * գլխավոր
+chief * պետ
+chief * առաջնորդ
+boss * ղեկավար
+client * հաճախորդ
+client * պատվիրատու
+colleague * գործընկեր
+dad * պապա
+mum * մամա
+businessman * բիզնեսմեն
+businessmen * բիզնեսմեններ
+worker * աշխատող
+worker * բանվոր
+journalist * լրագրող
+squirrel * սկյուռ
+wolf * գայլ
+goose * սագ
+geese * սագեր
+giraffe * ընձուղտ
+fox * աղվես
+bear * արջ
+elephant * փիղ
+russia * ռուսաստան
+great britain * մեծ բրիտանիա
+england * անգլիա
+entrance * մուտք
+exit * ելք
+center * կենտրոն
+roof * կտուր
+police * ոստիկանություն
+shop * խանութ
+stop * կանգառ
+customs * մաքսատուն
+leaf * տերև
+flat * բնակարան
+hall * նախասենյակ
+hall * սրահ
+windowsill * պատուհանագոգ
+curtain * վարագույր
+faucet * ջրատար ծորակ
+pipe * խողովակ
+chimney * բուխարի
+chimney * ծխնելույզ
+fridge * սառնարան
+cutlet * կոտլետ
+porridge * շիլա
+oatmeal * վարսակի փաթիլներ
+flour * ալյուր
+spice * համեմունք
+beet * ճակնդեղ
+beet * բազուկ
+squash * դդմիկ
+berry * հատապտուղ
+cherry * բալ
+apricot * ծիրան
+melon * սեխ
+watermelon * ձմերուկ
+pumpkin * դդում
+mandarin * մանդարին
+jam * մուրաբա
+cake * տորթ
+bun * բուլկի
+cream * կրեմ
+curd * կաթնաշոռ
+saucer * բաժակապնակ
+napkin * անձեռոցիկ
+pan * թաս
+frying pan * թավա
+frying pan * տապակ
+kettle * թեյնիկ
+time * ժամանակ
+time * անգամ
+hour * ժամ
+week * շաբաթ
+year * տարի
+the day before yesterday * երեկ չէ առաջին օրը
+yesterday * երեկ
+today * այսօր
+the day after tomorrow * վաղը չէ մյուս օրը
+day * օր
+month * ամիս
+january * հունվար
+february * փետրվար
+march * մարտ
+april * ապրիլ
+may * մայիս
+june * հունիս
+july * հուլիս
+august * օգոստոս
+september * սեպտեմբեր
+october * հոկտեմբեր
+november * նոյեմբեր
+december * դեկտեմբեր
+easter * զատիկ
+birthday * ծննդյան օր
+form * անկետա
+form * ֆորմա
+to form * ձևավորել
+name * անուն
+first name * անուն
+surname * ազգանուն
+maiden name * օրիորդական ազգանուն
+birth date * ծննդյան ամսաթիվ
+place of birth * ծննդավայր
+address * հասցե
+marital status * ամուսնական կարգավիճակը
+married * ամուսնացած
+divorced * բաժանված
+widowed * այրի
+pen * գրիչ
+copybook * տետր
+notebook * նոթատետր
+letter * տառ
+newspaper * լրագիր
+clock * ժամացույց
+comb * սանր
+to comb * սանրվել
+iron * երկաթ
+iron * արդուկ
+to iron * արդուկել
+card * բացիկ
+card * քարտ
+camera * տեսախցիկ
+handkerchief * թաշկինակ
+toy * խաղալիք
+bucket * դույլ
+calendar * օրացույց
+laptop * նոթբուկ
+steering wheel * ղեկ
+trunk * կնճիթ
+trunk * բեռնախցիկ
+gas * բենզին
+purse * կանացի պայուսակ
+ruler * քանոն
+ruler * կառավարիչ
+shovel * թի
+hammer * մուրճ
+scissors * մկրատ
+glue * սոսինձ
+to glue * սոսնձել
+page * էջ
+torch * գրպանի լապտեր
+mitten * ձեռնոց որի մատները բացվում են
+cardigan * կանացի բրդե հյուսված ժակետ
+tights * տրիկո
+stocking * զուգագուլպա
+hood * կապիշոն գլխարկ
+briefs * տղամարդու վարտիք
+panties * կանացի վարտիք
+bra * կրծքկալ
+face * երես
+forehead * ճակատ
+eyebrow * հոնք
+lips * շրթունքներ
+hair * մազ
+cheek * անամոթություն
+heart * սիրտ
+stomach * ստամոքս
+wrist * դաստակ
+heel * կրունկ
+toe * ոտքի մատ
+finger * ձեռքի մատ
+sickness * հիվանդություն
+running nose * հոսող քիթ
+birth * ծնունդ
+meeting * հանդիպում
+negotiation * բանակցություն
+purchase * ձեռքբերում
+size * չափ
+measure * չափս
+depth * խորություն
+kilogram * կիլոգրամ
+feeling * զգացմունք
+fun * զվարճանք
+sadness * տխրություն
+happiness * երջանկություն
+love * սեր
+hate * ատելություն
+soul * հոգի
+life * կյանք
+task * առաջադրանք
+problem * խնդիր
+beauty * գեղեցկություն
+beauty * գեղեցկուհի
+memory * հիշողություն
+profit * օգուտ
+profit * շահ
+consequence * հաջորդականություն
+meaning * նշանակություն
+meaning * իմաստ
+means * միջոց
+means * եղանակ
+success * հաջողակ
+miracle * հրաշք
+language * լեզու
+case * պատյան
+word * բառ
+thought * միտք
+circumstance * հանգամանք
+permit * թույլատվություն
+duty * պարտականություն
+delay * ուշացում
+mark * գնահատական
+mark * նշան
+mark * նշում
+development * զարգացում
+agreement * պայմանավորվածություն
+list * ցուցակ
+argument * վեճ
+test * փորձ
+step * քայլ
+surface * մակերես
+mess * անկարգություն
+what * ինչ
+what * ինչպիսին
+who * ով
+where * ուր
+where * որտեղ
+why * ինչու
+when * երբ
+how many * ինչքան
+how much * ինչքան
+i * ես
+you * դու
+he * նա տղա
+she * նա կին
+it * դա
+we * մենք
+you * դուք
+they * նրանք
+my * իմ
+your * քո
+his * նրա տղա
+her * նրա կին
+its * դրա
+our * մեր
+their * նրանց
+with * հետ
+without * առանց
+for * համար
+around * շուրջ
+among * մի քանիսի միջև
+per * ամեն մի
+above * վրա
+number * թիվ
+zero * զրո
+one * մեկ
+two * երկու
+three * երեք
+four * չորս
+five * հինգ
+six * վեց
+seven * յոթ
+eight * ութ
+nine * ինը
+ten * տաս
+eleven * տասնմեկ
+twelve * տասերկու
+thirteen * տասերեք
+fourteen * տասնչորս
+fifteen * տասնհինգ
+sixteen * տասնվեց
+seventeen * տասնյոթ
+eighteen * տասնութ
+nineteen * տասնինը
+twenty * քսան
+thirty * երեսուն
+forty * քառասուն
+fifty * հիսուն
+sixty * վաթսուն
+seventy * յոթանասուն
+eighty * ութսուն
+ninety * իննսուն
+first * առաջին
+second * երկրորդ
+third * երրորդ
+fourth * չորրորդ
+fifth * հինգերրորդ
+color * գույն
+new * նոր
+big * մեծ
+fine * հիանալի
+fine * տուգանք
+nasty * զզվելի
+next * հաջորդ
+free * անվճար
+spicy * սուր համ
+blunt * բութ
+long * երկար
+light * թեթև
+simple * պարզ
+dear * սիրելի
+left * ձախ
+merry * զվարթ
+angry * զայրացած
+evil * չար
+polite * քաղաքավարի
+gentle * նուրբ
+brave * համարձակ
+coward * վախկոտ
+hard-working * աշխատասեր
+lazy * ծույլ
+useful * օգտակար
+useless * անօգուտ
+weak * թույլ
+loud * բարձր
+bitter * դառը
+main * հիմնական
+main * գլխավոր
+better * ավելի լավ
+best * լավագույն
+worst * վատագույն
+more * ավելի շատ
+most * ամենաշատ
+less * ավելի քիչ
+seldom * հազվադեպ
+well * լավ
+exactly * հստակ
+perhaps * հնարավոր է
+of course * իհարկե
+certainly * հաստատ
+yes * այո
+no * ոչ
+not * չ
+many * շատ
+much * շատ
+little * քիչ
+some * մի քանի
+some * մի քիչ
+any * ինչ֊որ
+somebody * ինչ֊որ մեկը
+anybody * ինչ֊որ մեկը
+anybody * բոլորը
+anybody * ոչ ոք
+nobody * ոչ ոք
+something * ինչ֊որ բան
+anything * ինչ֊որ բան
+nothing * ոչինչ
+there * այդտեղ
+now * հիմա
+then * հետո
+then * այդ ժամանակ
+than * քան
+just * հենց նոր
+yet * դեռ չ
+every * յուրաքանչյուր
+each * յուրաքանչյուրը առանձին
+another * ուրիշ
+other * այլ
+all * բոլոր
+such * այնպիսի
+so * այսպես
+so * այսպիսով
+up * վերև
+down * ներքև
+only * միայն
+and * և
+or * կամ
+but * բայց
+because * որովհետև
+if * եթե
+though * չնայած
+to ring * զանգել
+to sink * սուզվել
+to sink * խորտակվել
+stink * գարշահոտություն
+to show * ցուցադրել
+to let * թույլատրել
+to shut * ծածկել
+to be afraid of * վախենալ
+to be interested in * հետաքրքրվել
+to be surprised * զարմանալ
+to live * ապրել
+to work * աշխատել
+to close * փակել
+to open * բացել
+to dance * պարել
+to answer * պատասխանել
+to collect * հավաքել
+to want * ցանկանալ
+to like * հավանել
+to cook * պատրաստել
+to play * խաղալ
+to thank * շնորհակալ լինել
+to smoke * ծխել
+to wish * ցանկանալ
+shout * բղավոց
+to remember * հիշել
+to count * հաշվել
+to surprise * զարմացնել
+to joke * կատակել
+to match * համապատասխանել
+to influence * ներգործել
+to describe * նկարագրել
+to intend * մտադրվել
+to return * վերադարձնել
+to disturb * անհանգստացնել
+to disturb * խանգարել
+room * սենյակ
+window * պատուհան
+switch * անջատիչ
+heating * ջեռուցում
+heating * տաքացում
+light * լուսավորություն
+ceiling * ծածկ
+carpet * գորգ
+carpet * կարպետ
+radiator * ռադիատոր
+radiator * մարտկոց
+wall * պատ
+socket * վարդակ
+aircon * օդափոխիչ
+to hang * կախել
+wood * փայտանյութ
+bottom * ներքև
+bottom * տակ
+metal * մետաղ
+to blow * փչել
+outside * դուրս
+top * վերև
+top * գագաթ
+top * կատար
+to enter * ընդունվել
+above * վերևում
+below * ներքևում
+below * տակ
+to press * սեղմել
+to press * ճնշել
+decoration * ձևավորում
+deciration * զարդարանք
+accessory * աքսեսուար
+bag * պայուսակ
+cap * կեպի
+rucksack * ուսապարկ
+waist * մեջք
+waist * գոտկատեղ
+trousers * տաբատ
+trousers * անդրավարտիք
+to hold on * սպասել
+neck * վիզ
+to smile * ժպտալ
+to cry * արտասվել
+to type * մեքենայագրել
+to type * մուտքագրել
+paper * թուղթ
+letter * նամակ
+keyboard * ստեղնաշար
+air travel * օդային ճանապարհորդություն
+boarding card * նստելու կտրոն
+baggage * ուղեբեռ
+seat belt * ամրագոտի
+duty free * անմաքս
+check-in desk * գրանցման սեղան
+airport * օդանավակայան
+departures board * թռիչքների ցուցատախտակ
+overhead locker * գլխավերևի դարակ
+to take off * թռչել
+to land * վայրէջք կատարել
+to go on holiday * գնալ արձակուրդ
+sign * նշան
+detail * դետալ
+animal * կենդանի
+bird * թռչուն
+horse * չի
+mouse * մուկ
+mice * մկներ
+dog * շուն
+goat * այծ
+beak * կտուց
+nest * բույն
+to lay * դնել
+egg * ձու
+to scare * վախենալ
+fat * ճարպ
+fat * գեր
+slim * բարակ
+slim * թուլակազմ
+thin * նիհար
+dark hair * մուգ մազեր
+ginger hair * շիկակարմիր մազեր
+ginger * շիկակարմիր
+ginger * կոճապղպեղ
+old * տարեց
+height * հասակ
+opposite * հակառակ
+opposite * դիմաց
+around town * քաղաքում
+crossroad * խաչմերուկ
+signpost * ցուցանշան
+signpost * ցուցասյուն
+crossing * անցում
+traffic lights * լուսացույցեր
+roundabout * շրջանային
+roundabout * օղակ
+pavement * մայթ
+empty * դատարկ
+tap * ծարակ
+shower * ցնցուղ
+washbasin * լվացարան
+toilet * զուգարան
+bath * վաննա
+toothbrush * ատամի խոզանակ
+toilet paper * զուգարանի թուղթ
+shampoo * շամպուն
+whilst * մինչդեռ
+to lie down * պառկել
+to lie * խաբել
+bathroom * լոգարան
+bedroom * ննջասենյակ
+alarm clock * զարթուցիչ ժամացույց
+bedside table * անկողնու կողքի սեղանիկ
+chest of drawers * փոքր դարակներով պահարան
+bed * մահճակալ
+single bed * մեկտեղանի մահճակալ
+double bed * երկտեղանի մահճակալ
+duvet * վերմակ
+lamp * լուսամփոփ
+pillow * բարձ
+sheet * սավան
+wardrobe * զգեստապահարան
+underwear * ներքնազգեստ
+body parts * մարմնի մասեր
+nose * քիթ
+finger * մատ
+ear * ականջ
+back * մեջք
+smell * հոտառություն
+ill * հիվանդ
+ill * վատ
+christmas * սուրբ ծնունդ
+santa * ձմեռ պապ
+sleigh * սահնակ
+snowman * ձնեմարդ
+christmas tree * տոնածառ
+stocking * ամանորյա գուլպա
+tinsel * փայլազարդ
+tinsel * ձյունիկ
+holly * փշարմավ
+cracker * ճայթուկ
+cracker * հրթիռ
+carrot * գազար
+bang * մեծ աղմուկ
+bang * հարված
+green leaves * կանաչ տերևներ
+jeans * ջինս
+jumper * բլուզ
+top * տոպ
+top * վերնազգեստ
+coat * պիջակ
+trainers * բոթասներ
+jacket * պիջակ
+jacket * ժակետ
+jacket * բաճկոն
+sweatshirt * սպորտային վերնաշապիկ
+casual denim * ամենօրյա ջինսե կտոր
+container * տարա
+container * աման
+packet * փաթեթ
+can * թիթեղյա տարա
+carton * պլաստիկ կամ ստվարաթղթից տուփ
+bowl * բաժակ
+jug * սափոր
+jug * կուժ
+jar * լայնաբերան անոթ
+tube * տյուբիկ
+tub * փակվող բերանով մեծ աման
+tin * պահածոյի թիթեղյա աման
+wine * գինի
+to squeeze * քամել
+cardboard * ստվարաթուղթ
+daily routine * ամենօրյա գործեր
+to go to work * գնալ աշխատանքի
+to to to school * գնալ դպրոց
+to go home * տուն վերադառնալ
+to have breakfast * նախաճաշել
+to have lunch * ճաշել
+to have dinner * ընթրել
+to do homework * տնային աշխատանքները անել
+to brush teeth * մաքրել ատամները
+to have a shower * ցնցուղ ընդունել
+to go to bed * պառկել քնելու
+brush * խոզանակ
+to get angry * զայրանալ
+to fall asleep * քնով անցնել
+canteen * ճաշասենյակ
+milk * կաթ
+tea * թեյ
+ised-tea * սառը թեյ
+fizzy drink * գազավորված ըմպելիք
+coffee * սուրճ
+hot chocolate * տաք շոկոլադ
+beer * գարեջուր
+ice cube * սառցաբեկոր
+leaves * տերևներ
+awake * արթուն
+vanilla * վանիլին
+colour * գույն
+pink * վարդագույն
+red * կարմիր
+brown * շականակագույն
+black * սև
+blue * կապույտ
+green * կանաչ
+yellow * դեղին
+white * սպիտակ
+grey * մոխրագույն
+tiger * վագր
+everyday objects * առօրյա առարկաներ
+key * բանալի
+key * ստեղն
+contact lenses * կոնտակտային լինզաներ
+briefcase * ձեռքի ճամպրուկ
+landline * հեռախոսագիծ
+mobile phone * բջջային հեռախոս
+glasses * ակնոց
+ice cream * պաղպաղակ
+pizza * պիցա
+biscuit * բիսկվիթ
+football * ֆուտբոլ
+cup * բաժակ
+cup * գավաթ
+whistle * սուլիչ
+penalty box * տուգանային հրապարակ
+goal * դարպաս
+linemen * եզրային մրցավար
+kit * հանդերձանք
+kit * հավաքածու
+pitch * դաշտ
+corner flag * անկյունային դրոշ
+team * թիմ
+center circle * կենտրոնական շրջան
+prize * մրցանակ
+prize * շահում
+to cheer * ծափահարել
+to cheer * ողջունել
+to cheer * ուրախանալ
+favourite * նախընտրելի
+favourite * սիրելի
+pear * տանձ
+apple * խնձոր
+peach * դեղձ
+plum * սալոր
+surface * սերմ
+curve * կոր
+stone * կորիզ
+middle * մեջտեղ
+middle * միջին
+snow white * սպիտակաձյունիկ
+health * առողջություն
+medicine * դեղ
+medicine * բժշկություն
+chemist * քիմիկոս
+chemist * դեղագործ
+hospital * հիվանդանոց
+plaster * գիպս
+plaster * սպեղանի
+plaster * սանտավիկ
+ambulance * շտապ օգնություն
+injection * ներարկում
+bandage * վիրակապ
+bandage * բինտ
+needle * ասեղ
+to wrap * փաթաթել
+to wrap * ծածկել
+to wrap * պատել
+sprained * ցրտահարված
+to operate * գործել
+holiday * արձակուրդ
+caravan * ծածկասայլ
+caravan * քարավան
+map * քարտեզ
+tourist * զբոսաշրջիկ
+hotel * հյուրանոց
+camping * ճամբար
+museum * թանգարան
+home * տուն
+front door * առջևի դուռ
+lift * վերելակ
+garden * պարտեզ
+dining room * ճաշասենյակ
+reception * ընդունարան
+twin beds * երկմահճակալանի
+to check in * գրանցվել
+to check out * գրանցումից դուրս գալ
+to brush * խոզանակով մաքրել
+to rest * հանգստանալ
+to rest * հենվել
+body * մարմին
+job * աշխատանք
+to build * կառուցել
+tidy * կոկիկ
+tidy * մաքուր
+tidy * կանոնավոր
+trial * դատավարություն
+court * դատարան
+bridge * կամուրջ
+clinic * կլինիկա
+office worker * գրասենյակային աշխատող
+cleaner * մաքրող
+shop assistant * վաճառող
+spoon * գդալ
+cooker * գազօջախ
+cooker * օջախ
+cupboard * բուֆետ
+table * սեղան
+bowl * տարա
+tinned food * պահածո
+to prepare * պատրաստել
+sofa * բազմոց
+plant * գործարան
+tv television * հեռուստատեսություն
+bookcase * գրապահարան
+armchair * բազկաթոռ
+vase * վազա
+vase * ծաղկաման
+light * ջահ
+radio * ռադիո
+video player * վիդեո նվագարկիչ
+picture * նկար
+cushion * բազմոցի բարձ
+cooking * խոհարարություն
+to burn * վառել
+to roast * տապակել
+to roast * բովել
+to roast * խորովել
+lunch * ճաշ
+to fry * տապակել
+oven * ջեռոց
+oven * վառարան
+oven * փուռ
+electric machine * էլեկտրական մեքենա
+prawn * մանր ծովախեցգետին
+ham * խոզապուխտ
+sausage * երշիկ
+sausage * նրբերշիկ
+duck * բադ
+burger * բուրգեր
+bacon * խոզի ապխտած միս
+bacon * բեկոն
+slice * հատված
+shell * վահանակ
+money * փող
+money * գումար
+note * թղթադրամ
+credit card * կրեդիտ քարտ
+clerk * քարտուղար
+cheque * ստացական
+cash machine * բանկոմատ
+coin * մետաղադրամ
+bank * բանկ
+account * հաշիվ
+form * ձև
+moving * շարժում
+to jump * թռչել
+to kick * խփել
+to cycle * հեծանիվ
+to skate * քշել
+to ride * վարել
+camel * ուղտ
+fast * արագ
+bicycle * հեծանիվ
+nature * բնություն
+sea * ծով
+flower * ծաղիկ
+fire * կրակ
+flow * հոսանք
+wooden * փայտե
+stem * ցողուն
+stem * կոթ
+branch * ճյուղ
+branch * մասնաճյուղ
+olympic sports * օլիմպիական սպորտաձևեր
+hockey * հոկեյ
+diving * ջրասուզություն
+boxing * բռնցքամարտ
+track * ճանապարհ
+track * հետք
+track * վազքուղի
+athletics * աթլետիկա
+volleyball * վոլեյբոլ
+marathon * մարաթոնյան վազք
+gymnastics * մարմնամարզություն
+rowing * թիավարում
+fencing * սուսերամարտ
+wrestling * ըմբշամարտ
+net * ցանց
+distance * հեռավորություն
+distance * տարածություն
+strength * դիմացկունություն
+strength * ամրություն
+strength * ուժ
+balance * հավասարակշռություն
+harmony * ներդաշնակություն
+coordination * կոորդինացում
+coordination * համակարգում
+co-founder * համահիմնադիր
+flex * ճկուն
+sword * սուսեր
+pattern * նախշ
+checked * փոքր քառակուսիներով կտոր
+flowered * ծաղկավոր
+spotted * խայտաբղետ
+spotted * բծավոր
+striped * զոլավոր
+striped * գծերով
+patterned * նախշերով
+denim * ջինսե կտոր
+heat * ջերմություն
+electricity * էլեկտրականություն
+breakable * դյուրաբեկ
+breakable * փխրուն
+breakable * կոտրվող
+circle * շրջանագիծ
+seed * հատիկ
+places in a town * վայրեր քաղաքում
+sport center * սպորտային կենտրոն
+post office * փոստային բաժանմունք
+cafe * սրճարան
+supermarket * սուպերմարկետ
+cinema * կինոթատրոն
+to deal with * գործ ունենալ
+parcel * ծանրոց
+parcel * փաթեթ
+strong * ուժեղ
+strong * ամուր
+strong * խիստ
+strong * թունդ
+restaurant * ռեստորան
+menu * ճաշացուցակ
+order * պատվեր
+order * կարգ
+flat * հարթ
+flat * ուղիղ
+round * կլոր
+round * շրջան
+book * գիրք
+classroom * դասասենյակ
+board * տախտակ
+board * գրատախտակ
+subject * առարկա
+pencil * մատիտ
+desk * գրասեղան
+pupil * աշակերտ
+art * արվեստ
+lesson * դաս
+shallow * մակերեսային
+shallow * ոչ խորը
+shopping * գնումներ
+shop window * ցուցափեղկ
+checkout * գանձասեղան
+trolley * անվասայլակ
+basket * զամբյուղ
+sale * վաճառք
+to display * ցուցադրել
+to attach * ամրացնել
+sporting events * սպորտային իրադարձություններ
+winner * հաղթող
+medal * մեդալ
+silver medal * արծաթե մեդալ
+bronze medal * բրոնզե մեդալ
+gold medal * ոսկե մեդալ
+spectator * հանդիսատես
+spectator * դիտորդ
+athlete * մարզիկ
+athlete * ատլետ
+flag * դրոշ
+fabric * գործվածք
+fabric * կտոր
+technology * տեխնոլոգիա
+game * խաղ
+website * ինտերնետային կայք
+touchscreen * սենսորային էկրան
+email * էլեկտրոնային փոստ
+text message * տեքստային հաղորդագրություն
+mobile * շարժական
+mobile * մոբայլ
+to store * կուտակել
+wire * մետաղալար
+wire * հաղորդալար
+cable * մալուխ
+cable * կաբել
+cable * ճոպան
+personal * անձնական
+sunglasses * արևային ակնոց
+sun hat * արևային գլխարկ
+surfboard * սերֆինգի տախտակ
+skin * մաշկ
+substance * նյութ
+substance * մատերիա
+substance * հիմք
+surface * մակերևույթ
+rise * վերելք
+rise * բարձրացում
+barbecue * խորոված
+hedge * ցանկապատ
+lawnmower * խոտհնձիչ
+garage * ավտոտնակ
+bush * թփուտ
+bush * մացառուտ
+bush * թուփ
+private * գաղտնի
+unlikely * քիչ հավանական
+unlikely * դժվար թե
+transport * տրանսպորտ
+car * ավտոմեքենա
+motorbike * մոտոցիկլ
+scooter * սկուտեր
+lorry * բեռնատար
+taxi * տաքսի
+ship * նավ
+bike * հեծանիվ
+bus * ավտոբուս
+van * ֆուրգոն
+machine * մեքենա
+machine * ապարատ
+railway line * երկաթուղային գիծ
+cross * խաչ
+cross * հակադիր
+pepper * պղպեղ
+sweetcorn * քաղցր եգիպտացորեն
+tomato * լոլիկ
+aubergine * սմբուկ
+cabbage * կաղամբ
+cauliflower * ծաղկակաղամբ
+thin * բարակ
+fog * մառախուղ
+warm * տաք
+snow * ձյուն
+hot * շոգ
+hot * տապ
+dry * չոր
+rain * անձրև
+sun * արև
+shape * ուրվագիծ
+vapour * գոլորշի
+vapour * շոգի
+thunder * ամպրոպ
+thunder * որոտ

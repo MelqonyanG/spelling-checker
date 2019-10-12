@@ -1,0 +1,1137 @@
+camp * ճամբար
+skateboard * սկեյթբորդ
+originally * ի ծնե
+to grow up * մեծանալ
+to grow up * աճել
+immigrant * ներգաղթյալ
+hobby * նախասիրություն
+possession * սեփականություն
+to possess * ունենալ
+childhood * մանկություն
+amusement park * զվարճանքների այգի
+cat * կատու
+to collect comic books * հավաքել կոմիկ գրքեր
+to play video games * խաղալ վիդեո խաղեր
+playground * խաղահրապարակ
+sticker * կպչուն պիտակ
+teddy bear * թեդի արջուկ
+toy car * խաղալիք մեքենա
+turtle * կրիա
+cartoon * մուլտֆիլմ
+to keep fit * պահել մարզավիճակ
+politic * քաղաքական
+neat * կոկիկ
+organized * կազմակերպված
+messy * թափթփված
+messy * կեղտոտ
+to care about * հոգ տանել
+appearance * արտաքին տեսք
+habit * սովորություն
+vacation * արձակուրդ
+hide-and-seek * պահմտոցի
+painting * նկարչություն
+courage * քաջություն
+courage * խիզախություն
+tragedy * ողբերգություն
+hope * հույս
+to develop * զարգացնել
+polio * պոլիոմելիտ
+illness * հիվանդություն
+to damage * վնասել
+stronger * ուժեղ
+stronger * ամուր
+to dream * երազել
+crash * վթար
+destiny * ճակատագիր
+to refuse * մերժել
+to refuse * հրաժարվել
+to entertain * զվարճացնել
+self-portrait * ինքնադիմանկար
+alone * միայնակ
+to suffer * տառապել
+to suffer * տուժել
+to recognize * ճանաչել
+to recognize * ընդունել
+talent * տաղանդ
+once * մեկ անգամ
+pregnant * հղի
+generally * ընդհանուր առմամբ
+poor * աղքատ
+childbirth * ծննդաբերություն
+to survive * փրկվել
+to survive * գոյատևել
+to destroy * կործանել
+to destroy * քանդել
+to destroy * ոչնչացնել
+to attract attention * ուշադրություն գրավել
+to dress * հագնվել
+traditional * ավանդական
+braid * հյուս
+thick * հաստ
+honest * ազնիվ
+to cast * նետել
+to cast * գցել
+ability * ընդունակություն
+fear * վախ
+situation * իրավիճակ
+hard case * դժվար դեպք
+to protect * պաշտպանել
+bone * ոսկոր
+bone * կմախք
+action * գործողություն
+state * վիճակ
+to scream * ճչալ
+grade * աստիճան
+grade * թվանշան
+grade * դասարան
+lizard * մողես
+ever * երբևէ
+drawer * քաշովի դարակ
+loudly * բարձրաձայն
+to get mad * զայրանալ
+to wonder * ուզենալ իմանալ
+contact * կապ
+elementary * տարրական
+teenager * դեռահաս
+immediately * անմիջապես
+co-starred * համատեղ նկարահանվել
+upper * վերին
+priest * քահանա
+diary * օրագիր
+recent * թարմ
+recent * նոր
+recently * վերջերս
+conductor * դիրիժոր
+to worth * արժենալ
+shell * խեցի
+castle * դղյակ
+castle * ամրոց
+to be good at smt. * լավ լինել ինչ֊որ բանից
+to be good at doing smt. * լավ լինել ինչ֊որ բան անելուց
+to be in charge of smt. * պատասխանատու լինել ինչ֊որ բանի համար
+to deal with * գորժ ունենալ ինչ֊որ բանի հետ
+it is a deal * պայմանավորվեցինք
+deal * գործարք
+to deal * գործ ունենալ
+no big deal * մեծ բան չէ
+relative * բարեկամ
+to take up * սկսել զբաղվել ինչ֊որ բանով
+to spread * տարածվել
+recycling * վերմշակում
+lane * ճանապարհային գծեր
+bicycle lane * հեծանիվ վարելու գոտի
+bicycle stand * հեծանիվի կայան
+bus lane * ավտոբուս վարելու գոտի
+bus station * ավտոբուսի կայարան
+bus stop * ավտոբուսի կանգառ
+bus system * ավտոբուսային համակարգ
+green space * կանաչ տարածք
+parking garage * ավտոկայանատեղի
+parking space * ավտոկանգառ
+recycling center * վերամշակման կենտրոն
+recycling system * վերամշակման համակարգ
+street light * փողոցի լուսավորություն
+subway station * մետրոյի կայարան
+subway stop * մետրոյի կանգառ
+subway system * մետրոյի համակարգ
+taxi lane * տաքսի վարելու գոտի
+taxi stand * տաքսու կանգառ
+traffic jam * տրանսպորտային խցանում
+traffic light * լուսացույց
+train station * գնացքի կայարան
+train stop * գնացքի կանգառ
+train system * գնացքի համակարգ
+to recycle * վերամշակել
+enough * բավականին
+resident * բնակիչ
+to compare * համեմատել
+recreational facility * հանգստյան հաստատություն
+facility * հաստատություն
+to recreate * հանգստանալ
+to recreate * վերստեղծել
+improvement * բարելավում
+rating * վարկանիշ
+to get worse * վատանալ
+rush hour * պիկ ժամ
+cost * արժեք
+closest to * ամենամոտ
+restroom * զուգարան
+to run * աշխատել
+to run * աշխատեցնել
+singular * եզակի թիվ
+plural * հոգնակի թիվ
+to install * տեղադրել
+to install * սարքավորել
+to hire * վարձակալել
+to hire * աշխատանքի ընդունել
+tram * տրամվայ
+railway * երկաթգիծ
+cable railway * մալուխային երկաթուղի
+ferry * լաստանավ
+deck * տախտակամած
+passenger * ուղևոր
+passenger * ճամփորդ
+route * ուղի
+route * երկաթուղի
+ready * պատրաստ
+healthcare * առողջապահություն
+education * կրթություն
+option * տարբերակ
+option * կետ
+commuting to work * մշտապես երթևեկել դեպի աշխատանք
+joy * ուրախություն
+to share * կիսել
+volunteer * կամավոր
+attitude * վերաբերմունք
+relationship * հարաբերություն
+cheerful * ուրախ
+cheerful * զվարթ
+to earn * վաստակել
+tax * հարկ
+to stress * շեշտել
+to stress * ընդգծել
+nowdays * այժմ
+nowdays * օրերս
+bright * լուսավոր
+cramped * նեղվածք
+dingy * կեղտոտ
+inconvenient * անհարմար
+modern * ժամանակակից
+private * մասնավոր
+private * փակ
+private * առանձին
+run-down * քանդված
+small * փոքր
+specious * ընդարձակ
+feature * առանձնահատկություն
+separate * առանձին
+separate * անջատ
+to make a wish * ցանկություն պահել
+to have a healthier lifestyle * ունենալ առողջ ապրելակերպ
+to start own business * սկսել սեփական բիզնես
+to enjoy like more * կյանքն ավելի շատ վայելել
+to add more hours to the day * օրվա մեջ ավելացնել ավելի շատ ժամեր
+to do volunteer work * կատարել կամավերական աշխատանք
+to go back to school * հետ գնալ դպրոց
+to improve personality * բարելավել անհատականությունը
+to move to a new home * տեղափոխվել նոր տուն
+to make new friends * նոր ընկերներ ձեռք բերել
+to spend more time with family * ավելի շատ ժամանակ անցկացնել ընտանիքի հետ
+i wish i could * երանի կարողանայի
+to criticize * քնադատել
+diploma * դիպլոմ
+with no money * առանց փողի
+furniture * կահույք
+furniture * գույք
+waste * թափոն
+mobile home * շարժական տուն
+farm * ֆերմա
+wood * փայտ
+wood * վառելանյութ
+bill * հաշիվ
+stove * վառարան
+bone * աճյուն
+seed * սերմ
+closer to nature * բնությանն ավելի մոտ
+to discuss * քննարկել
+evaluation * գնահատում
+comparison * համեմատում
+fountain * շատրվան
+to flow * հոսել
+facing away from the * դեմքով դեպի
+sunrise * արևածագ
+sunset * մայրամուտ
+that is why * ահա թե ինչու
+padlock * կողպեք
+chain * շղթա
+seasonal * եղանակային
+to attach * փակցնել
+Lebanon * Լիբանան
+meatball * մսագունդ
+yogurt * մածուն
+yogurt * յոգուրտ
+head * գլուխ
+sauce * սոուս
+shellfish * խեցեմորթ
+to stew * շոգեխաշել
+clay * կավ
+clay * ցեխ
+pot * ամոթ
+pot * կաթսա
+frog * գորտ
+leg * ազդր
+appetizer *նախուտեստ
+snail * խխունջ
+spare * պահուստ
+spare * պահեստային
+snack * թեթև նախաճաշ
+snack * խորտիկ
+to skim * քաշել
+spaghetti * սպագետի
+banana * բանան
+to boil * եռացնել
+to boil * խաշել
+to fry * թավայով տապակել
+to gril * խորովել
+to roast * միկրոալիքային վառարանում տապակել
+to steam * շոգեխաշել
+package * փաթեթ
+elbow * արմունկ
+macaroni * մակարոն
+tablespoon * ճաշի գդալ
+heavy * ծանր
+cheddar * չեդր պանիր
+to shred * ծյոռկել
+to shred * կտրել
+to stir * խառնել
+to stir * միավորել
+to season * համեմել
+season * եղանակ
+season * սեզոն
+pepper * բիբար
+to mix * միախառնել
+to drain * քամել
+couscous * բլղուր
+olive * ձիթապտուղ
+parsley * մաղադանոս
+to pour * լցնել
+to pour * ավելացնել
+mash * պյուրե
+cilantro * կինզա
+fork * պատառաքաղ
+scoop * շերեփ
+to squeeze * սեղմել
+to squeeze * ճզմել
+to combine * համատեղել
+to combine * միավորել
+ingredient * բաղադրիչ
+to taste * ըստ ճաշակի
+knowledge * գիտելիք
+royal * արքայական
+to adapt * վերամշակել
+to adapt * հարմարեցնել
+peanut * գետնանուշ
+nation * ազգ
+squid * ութոտնուկ
+seaweed * ջրիմուռ
+kangaroo * կենգուրու
+crocodile * կոկորդիլոս
+to relate * կապվել
+marshmallow * զեֆիռ
+shadow * ստվեր
+raw * հում
+cruise * նավարկություն
+pollen * փոշի
+juniper * գիհի
+to irritate * նյարդայնանալ
+to irritate * բորբոքվել
+to irritate * գրգռվել
+itch * քոր
+tahini * թահինի
+tahini * քնջութ
+bowl * գավաթ
+bowl * աման
+mixture * խառնուրդ
+to pour * թափել
+pan * թավա
+pan * կաթսա
+to fold * ծալել
+to fold * թեքել
+omelet * ձվածեղ
+dip * ցողուն
+to skip * բաց թողնել
+skewer * շամփուր
+powder * փոշի
+powder * դիմափոշի
+eggplant * սմբուկ
+gift * նվեր
+mess * խառնաշփոթ
+to take into consideration * հաշվի առնել
+to refer * վերաբերվել
+in case of * դեպքուն
+to omit * բաց թողնել
+to take a trip * ճանապարհորդության գնալ
+foreign * օտար
+foreign * օտարերկրյա
+course * կուրս
+to host * հյուրընկալել
+to host * ընդունել
+host * տանտեր
+shabby * մաշված
+shabby * հին
+plenty * լիովին
+to blame * մեղադրել
+landlord * վարձով տանտեր
+to catch up on smt * ինչ֊որ բանի վրա շատ ժամանակ ծախսել
+to catch up on doing smt * ինչ֊որ բան անելու վրա շատ ժամանակ ծախսել
+to decide on * որոշել
+to decide upon * որոշել
+maybe * հնարավոր է
+possible * հնարավոր
+to take some time off * ազատ ժամանակ վերցնել
+serie * սերիա
+merry * երջանիկ
+merry * ուրախ
+beforehand * նախապես
+in advance * նախապես
+ATM card * բանկոմատի քարտ
+carry-on bag * ձեռքի պայուսակ
+first-aid kit * առաջին օգնության պայուսակ
+medication * դեղորայք
+money belt * գումար պահելու գոտի
+passport * անձնագիր
+plane ticket * ինքնաթիռի տոմս
+sandals * սանդալներ
+swimsuit *  լողազգեստ
+travel insurance * ճանապարհորդական ապահովագրություն
+vaccination * պատվաստում
+luggage * ուղեբեռ
+document * փաստաթուղթ
+clothing * հագուստ
+raft * լաստանավ
+valid * վավեր
+oversea * արտերկիր
+secure * անվտանգ
+stall * տաղավար
+tap * ծորակ
+necessity * անհնրաժեշտություն
+identification * անձը հաստատող փաստաթուղթ
+round-trip ticket * երկկողմանի տոմս
+spokeswoman * մամուլի քարտուղար
+around the world * ամբողջ աշխարհում
+discount * զեղչ
+accomodation * բնակեցում
+accomodation * հարմարեցում
+accomodation * հարմարություններ
+tent * վրան
+monkey * կապիկ
+sub-zero * զրոյից ցածր
+reindeer * հյուսիսային եղջերու
+jungle * ջունգլի
+to train * մարզել
+to train * պատրաստել
+stone * քար
+to except * բացառել
+snake * օձ
+to search * որոնել
+intention * մտադրություն
+camper * արշավորդ
+camper * տուրիստ
+condominium * քոթեջ
+condominium * համատիրություն
+sailing * ծովագնացություն
+cues * անարկ
+cues * հուշում
+airfare * ավիատոմսի արժեք
+wide * լայն
+steak * բիֆշտեքս
+fall * ջրվեժ
+truly * իրականում
+climbing * մագլցում
+climbing * բարձրացում
+equipment * սարքավորում
+equipment * պարագա
+spray * հեղուկացիր
+border * սահման
+cathedral * տաճար
+torn * պատռված
+to find out * պարզել
+to look after * հոգ տանել
+to complain * բողոքել
+complaint * բողոք
+to argue * վիճել
+headphones * ականջակալեր
+to criticize * քննադատել
+to text * հաղորդագրություն գրել
+to drive crazy * դրական իմաստով խելագարության հասցնել
+to drive crazy * կատաղեցնել
+to ring up * զանգել
+to turn off * անջատել
+to turn on * միացնել
+to turn down * ձայնը իջեցնել
+to turn up * ձայնը բարձրացնել
+to put away * հետո օգտագործելու նպատակով մի կողմ դնել
+to hang up * կախել
+to take off * հանվել
+to take off * ինքնաթիռի գետնից կտրվելը
+to clean up * մաքրել
+to take out * դուրս տանել
+to let out * դուրս թողնել
+to clean up * սրբել
+to put on * հագնվել
+grocery * մթերք
+magazine * թերթ
+magazine * լրագիր
+microwave * միկրոալիքային վառարան
+to throw out * դեն նետել
+expenses * ծախսեր
+stranger * օտարական
+stranger * անծանոթ
+to attract * գրավել
+balcony * պատշգամբ
+conditioner * օդափոխիչ
+smell * հոտ
+chart * աղյուսակ
+chart * դիագրամա
+chart * գրաֆիկ
+to admit * ընդունել
+to admit a mistake * սխալն ընդունել
+to give an excuse * արդարանալ
+to make an offer * առաջարկ անել
+to make a promise * խոստանալ
+guest * հյուր
+chef * խոհարար
+manager * կառավարիչ
+manager * մենեջեր
+request * խնդրանք
+satisfactory * բավարար
+weird * տարօրինակ
+staff * աշխատակազմ
+to give a hand * ձեռք մեկնել
+to give a hand * օգնել
+cereal * շիլա
+coast * ծովափ
+to oversleep * քնով անցնել
+to gain * ձեռք բերել
+to snore * խռմփացնել
+to snore * խռմփալ
+monster * հրեշ
+cute * լավիկ
+reward * պարգևատրում
+to agree upon * համաձայնվել
+vacuum cleaner * փոշեկուլ
+to frustrate * զզվեցնել
+to frustrate * ջախջախել
+to vex * զայրացնել
+to vex * հուզել
+assignment * հանձնարարություն
+seat * նստարան
+to hand * հանձնել
+to hand * տալ
+venal * շահամոլ
+to bark * հաչել
+promise * խոստում
+hair dryer * ֆեն
+to let down * նեղացնել
+bark * ծառի կեղև
+to take after * նմանվել
+to breath * շնչել
+purpose * նպատակ
+to plug in * միացնել հոսանքին
+to unplug * անջատել հոսանքից
+glass * ապակի
+digital camera *թվային տեսախցիկ
+e-readers * էլեկտրոնային գրքեր
+e-book * էլեկտրոնային գիրք
+streaming TV * հեռուստատեսային ալիքներ
+driverless car * անվարորդ մեքենա
+drone * անօդաչու թռչող սարք
+to take photo * լուսանկարել
+direction * ուղղություն
+invisible * անտեսանելի
+tape * ժապավեն
+webcam * վեբ տեսախցիկ
+paper clip * թղթերի ամրացուցիչ
+invention * հորինված բան
+wizard * կախարդ
+wizard * հրաշագործ
+computer crash * համակարգչային վթար
+flash driver * ֆլեշկա
+identity * ինքնություն
+theft * գողություն
+geek * համակարգչագետ
+bug * բզեզ
+bug * միջատ
+solar-powered battery * արևային մարտկոց
+charger * լիցքավորիչ
+screen * էկրան
+frozen * սառած
+frozen * զմրսված
+gadget * սարքավորում
+device * սարք
+to hack * կոտրել
+to hack * ջարդել
+suggestion * խորհուրդ
+to reset * վերականգնել
+lens * ոսպնյակ
+lens * տեսապակի
+portable * շարժական
+portable * դյուրակիր
+speaker * խոսնակ
+sharing * փոխանակում
+economy * տնտեսություն
+economy * խնայողություն
+profitable * շահավետ
+society * հասարակություն
+private house * առանձնատուն
+industry * արդյունաբերություն
+to receive * ընդունել
+employee * աշխատակից
+employer * գործատու
+employment * աշխատանք
+government * կառավարություն
+rather * ավելի շուտ
+kinder * բարերար
+kinder * բարենպաստ
+to trust * վստահել
+doubt * կասկած
+to remain * մնալ
+fair * արդար
+accommodation * կացարան
+opportunity * հնարավորություն
+demage * վնաս
+imperative * հրամայական
+to be late * ուշանալ
+to determine * որոշել
+to store * պահել
+to store * հավաքել
+gasoline * բենզին
+recharge * վերալիցքավորում
+to steer * կառավարել
+steering * կառավարում
+phonograph * ձայնագրիչ
+cabinet * պահարան
+cabinet * կաբինետ
+cabinet * արկղ
+to stream * հոսել
+slender *բարեկազմ
+slender * նրբակազմ
+although * չնայած
+fragile * փխրուն
+fragile * նուրբ
+fragile * թույլ
+dirt * կեղտ
+dirty * կեղտոտ
+worse * ավելի վատ
+to give a ride * ինչ֊որ մեկին մեքենայով տեղ հասցնել
+to go sightseeing * գնալ տեսարժան վայր
+to see the sights * գնալ տեսարժան վայր
+in general * ընդհանուր առմամբ
+in case * այն դեպքում երբ
+to look forward to * անհամբեր սպասել
+fod * հիմար
+labor day * աշխատավորների օր
+to celebrate * տոնել
+to celebrate * նշել
+festival * փառատոն
+parade * շքերթ
+saint * սուրբ
+playful * խաղային
+playful * զվարճալի
+skeleton * կմախք
+sculpture * քանդակ
+dead * մահացած
+thanksgiving * գոհություն
+thanksgiving * երախտագիտություն
+lunar * լուսնային
+firework * հրավառություն
+dragon * վիշապ
+candy * կոնֆետ
+candy * քաղցրավենիք
+swift * արագ
+swift * սրընթաց
+mask * դիմակ
+a celebration * տոնակատարություն
+holidays * արձակուրդներ
+holidays * տոներ
+candle * մոմ
+close friend * մոտ ընկեր
+pancake * նրբաբլիթ
+eve * նախօրե
+new years' eve * տարեմուտի գիշերը
+to celebrate * փառաբանել
+fool * հիմար
+fool * խեղկատակ
+trick * հնարք
+trick * խաղ
+trick * ֆոկուս
+to express * արտահայտել
+to honor * մեծարել
+to honor * պատվել
+anniversary * տարեդարձ
+annual * ամենամյա
+event * դեպք
+to commemorate * հիշատակել
+ancestor * նախնի
+ancestor * նախահայր
+grave * գերեզման
+lantern * փարոս
+lantern * լապտեր
+ceremony * արարողություն
+groom * փեսա
+groom * փեսացու
+bride * հարս
+bride * հարսնացու
+garland * ծաղկաշղթա
+to make sense * իմաստ ունենալ
+sense * իմասստ
+sense * զգացում
+to take off * հագուստը հանել
+adverbial * հասանելի
+veil * քող
+veil * վարագույր
+honeymoon * մեղրամիս
+to get together * միանալ
+to get together * հավաքվել
+independence * անկախություն
+patriotic * հայրենասեր
+to owe * պարտք լինել
+straight * ուղիղ
+least * ամենաքիչ
+to bloom * ծաղկել
+begginning * սկիզբ
+skiing * դահուկավազք
+civil * քաղաքացիական
+civil * բարեկիրթ
+fake * կեղծ
+gathering * հավաքույթ
+to held * տեղի ունենալ
+to held * անցկացվել
+slience * անդորր
+slience * լռություն
+to observe * հետևել
+to observe * դիտարկել
+comma * ստորակետ
+reception * ընդունելություն
+newlyweds * նորապսակներ
+appreciation * գնահատական
+appreciation * երախտագիտություն
+to occur * տեղի ունենալ
+broom * ցախավել
+dummy * չուչել
+dummy * խրթվիլակ
+sawdust * սղոցի փոշի
+doll * տիկնիկ
+to fill * լցնել
+to burn * վառվել
+to burn * այրել
+to strik * խփել
+envelope * ծրար
+to book * պատվիրել
+to come up * մոտենալ
+tear * արցունք
+tribe * մարդկային ցեղ
+to make speach * կենաց ասել
+to make speach * ելույթ ունենալ
+rug * գորգ
+required * պահանջված
+sink * լվացարան
+elevator * վերելակ
+robe * ժապավեն
+to exhous * սպառվել
+blackboard * գրատախտակ
+to assemble * հավաքել
+steam * գոլորշի
+steam train * շոգեքարշ
+frequent * հաճախակի
+frequent * մշտական
+shared car * ընդհանուր մեքենա
+intelligent * գրագետ
+tower * աշտարակ
+to tear down * տեղահան անել
+to tear down * պոկել
+bunch * խումբ
+bunch * խուրձ
+cure * բուժում
+common cold * ընդհանուր մրսածություն
+contrast * հակադրություն
+bucks * փողեր
+consequence * հետևանք
+high-paying job * բարձր վարձատրվող աշխատանք
+fluently * վարժ
+fluently * սահուն
+to lead * վարել
+to lead good life * լավ կյանք վարել
+aquaintance * ծանոթություն
+butcher * մսագործ
+butcher * դահիճ
+carriage * կառք
+carriage * վագոն
+casual * ամենօրյա
+appearance * տեսք
+fusion * միաձուլում
+fusion * հալում
+to identify * ճանաչել
+contribution * ներդրում
+to emerage * առաջանալ
+to evolve * զարգանալ
+to replace * փոխարինել
+flashy * էժանագին
+flashy * աչքի ընկնող
+to collaborate * համագործակցել
+fluency * սահունություն
+flexibility * ճկունություն
+ability * հմտություն
+affirmative * դրական
+night shift * գիշերային հերթափոխ
+commuting * մշտական երթևեկություն
+critical * քննադատ
+disorganized * անկազմակերպ
+efficient * ունակ
+forgetful * մոռացկոտ
+hardworking * աշխատասեր
+level-headed * հավասարակշռված
+moody * մռայլ
+moody * տրամադրության առումով փոփոխական
+punctual * պունկտուալ
+punctual * ճշտապահ
+short-tempered * անհամբեր
+short-tempered * բռնկվող
+co-worker * գործընկեր
+article * հոդված
+stock market * ֆոնդային շուկա
+stockbroker * բորսայի բրոկեր
+pressure * ճնշում
+to commute * երթևեկել
+applicant * դիմորդ
+applicant * թեկնածու
+willing * պատրաստակամ
+trait * բնավորության գիծ
+marine * ծովային
+biologist * կենսաբան
+executive * գործադիր
+to anxious * մտահոգվել
+upset * տխուր
+to misbehave * իրեն սխալ պահել
+misbehave * սխալ վարքագիծ
+misbehave * սխալ պահվածք
+to complain * դժգոհել
+to waste * վատնել
+cross-cultural * խաչվող մշակույթներ
+lack of * պակաս
+timetable * ժամատախտակ
+timetable * դասացուցակ
+essential * կարևոր
+essential * հիմնական
+to sign * ստորագրել
+to consider * համարել
+solitude * մենություն
+manual * ձեռքով
+the eiffel tower * էֆելյան աշտարակ
+decade * տասնամյակ
+shade * երանգ
+to resist * դիմակայել
+eruption * ժայթքում
+eruption * պոռթկում
+to shipped * առաքվել
+sculptor * քանդակագործ
+versus * ընդդեմ
+cattle * եղջերավոր կենդանի
+sheep * ոչխար
+dialect * բարբառ
+souvenir * հուշանվեր
+soybean * սոյա
+handicraft * արհեստ
+handicraft * ձեռքի աշխատանք
+textile * կտորեղեն
+to manufacture * արտադրել
+to raise * բարձրանալ
+to raise * աճեցնել
+to raise * բուծել
+oats * վարսակ
+dairy * կաթնամթերք
+crop * բերք
+to consume * սպառել
+to export * արտահանել
+to cultivate * մշակել
+to cultivate * զարգացնել
+to cultivate * աճեցնել
+variety * բազմազանություն
+to invest * ներդնել
+hunt * որս
+medieval * միջնադարյան
+to declare * հայտարարել
+to declare * հռչակել
+heritage * ժառանգություն
+to admire * հիանալ
+solid * ամուր
+solid * պինդ
+to launch * գործարկել
+to launch * արձակել
+palace * պալատ
+to trade * առևտուր անել
+explorer * հետազոտող
+ecplorer * ուսումնասիրող
+paradise * դրախտ
+paradise * արքայություն
+myth * միֆ
+myth * լեգենդ
+sailor * նավաստի
+indigenous * բնիկ
+indigenous * տեղական
+mining * հանքարդյունաբերություն
+currency * արժույթ
+prairie * մարգագետին
+to establish * սահմանել
+to establish * հիմնել
+to establish * հաստատել
+to introduce * ներկայացնել
+to introduce * ծանոթացնել
+scenery * բնապատկեր
+snowcapped * ձյունածածկ
+coastal * ափամերձ
+hardwood * կարծր փայտանյութ
+cocoa * կակաո
+wing * թև
+to be known for * հայտնի լինել
+tire * անվադող
+to get a flat tire * անվադողը ծակվել է
+while * մինչ
+as * մինչ
+as * ընթացքում
+coincidence * զուգադիպություն
+bunch * փունջ
+balloon * փուչիկ
+reply * պատասխան
+to spill * թափել
+to spill * լցնել
+tire * անիվ
+lights go out * լույսերն անջատվեցին
+to slip * սայթաքել
+to slip * սահել
+to slip * վրիպել
+to ski * դահուկով սահել
+coincidentally * պատահականորեն
+coincidentally * զուգադիպաբար
+luckily * հաջողակ կերպով
+luckily * բարեբախտաբար
+miraculously * հրաշալիորեն
+sadly * տխուր կերպով
+stangely * տարօրինակ կերպով
+suddenly * հանկարծակիորեն
+unexpectedly * անսպասելիորեն
+towards * դեպի
+towards * ուղղությամբ
+towards * նկատմամբ
+to interrupt * ընդհատել
+to interrupt * խանգարել
+fire alarm * հրդեհային ազդանշան
+to go off * անջատվել
+influence * ազդեցություն
+trilingual * եռալեզու
+to contribute * ներդնել
+to contribute * աջակցել
+to contribute * նվիրել
+to devote * նվիրաբերել
+to devote * նվիրել
+concern * մտահոգություն
+justice * արդարություն
+ice-skating * չմշկասահք
+trivia * մանրուք
+to rehearse * վերապասրաստվել
+to slam * խփել
+to slam * աղմուկով դիպչել
+accidentally * պատահաբար
+to incorporate * ընդգրկել
+to incorporate * միավորել
+stunt * ճարպիկ հնարք
+remaining * մնացած
+to amaze * զարմանալ
+to amaze * հիանալ
+to confuse * դժվարությունից շփոթվել
+to embarrass * ամոթից շփոթվել
+to disgust * սրտխառնոց առաջանալ
+to disgust * զզվել
+to shock * շոկի ենթարկվել
+disgusting * զզվելի
+horrible * սարսափելի
+outstancing * ակնառու
+outstancing * տարբերվող
+stupid * հիմար
+dumb * հիմար
+ridiculous * զվարճալի
+ridiculous * անհեթեթ
+silly * հիմար
+silly * տխմար
+bizarre * արտառոց
+bizarre * տարօրինակ
+weird * խորհրդավոր
+funny * զվարճալի
+amusing * զվարճալի
+amusing * հետաքրքիր
+hilarious * ուրախ
+hilarious * զվարթ
+hysterical * հիստերիկ
+investigation * հետաքննություն
+creature * արարած
+clever * խելազի
+mystery * առեղծված
+to reinvent * վերականգնել
+to blend * խառնել
+fatal * ճակատագրական
+fatal * մահացու
+prisoner * բանտարկյալ
+solider * զինվոր
+to disappoint * հիասթափվել
+influential * ազդեցիկ
+composer * երգահան
+composer * կոմպոզիտոր
+to convinc * համոզել
+convincing * համոզիչ
+fame * հռչակ
+unpleasant * տհաճ
+to achieve * հանել
+to achieve * ձեռք բերել
+boot * ջոկատ
+mentally * մտավոր
+to dislocate * տեղից շարժվել
+rib * կողոսկր
+never the less * բայց և այնպես
+bravely * խիզախորեն
+to nod * գլխով անել
+to insist * պնդել
+permission * թույլատվություն
+obligation * պարտավորվածություն
+steares * աստիճաններ
+idiom * քարացած արտահայտություն
+absolutely * բացարձակապես
+a piece of cake * շատ հեշտ է
+to scratch * քորել
+to bite * կրծել
+to bite * խայթել
+to bite * կծել
+to roll * պտտել
+to roll * գլորել
+to tap * թակել
+wrinkle * կնճիռ
+to frustrate * հիասթափվել
+irritated * դյուրագրգիռ
+to exhaust * սպառել
+prohibition * արգելք
+to be allowed to * թույլատրված լինել
+to fasten * ամրացնել
+toll * կոչնակ
+familiar * ծանոթ
+straw * ծղոտ
+to occur * պատահել
+feather * փետուր
+flock * կենդանիների հոտ
+flock * երամ
+ounce * կաթիլ
+prevention * կանխարգելում
+fence * ցանկապատ
+whether * արդյոք
+deaf * խուլ
+to go deaf * խլանալ
+disability * անկարողություն
+nightmare * մղձավանջ
+hearing aid * լսողական սարք
+alike * միևնույն ժամանակ
+alike * նման
+backpack * ուսապարկ
+counter * վաճառասեղան
+fundraising * դրամահավաք
+campaign * քարոզարշավ
+campaign * արշավ
+jail * բանտ
+to jail * բանտարկել
+prison * բանտ
+predicament * անախորժություն
+to cheat * արտագրել
+to addicted to * կախվածություն ունենալ
+addict * թմրամոլ
+to deny * ժխտել
+to deny * հերքել
+to admit * խոստովանել
+to accept * համաձայնվել
+to merry * ամուսնանալ
+to divorce * ամուսնալուծվել
+brand new * բոլորովին նոր
+to scratch * քերծել
+to scratch * ջնջել
+campsite * ճամբար
+doorbell * դռան զանգ
+joke * զվարճալի դեպք
+to confess * խոստովանել
+shoplifting * գողություն խանութից
+deposit * ավանդ
+bench * նստարան
+council * խորհուրդ
+manufacturer * արտադրող
+scholarship * կրթաթոշակ
+to regret * ափսոսել
+to slim down * նիհարել
+slim * նիհար
+overweight * գեր
+carbohydrate * ածխաջուր
+to shot * փորձել
+cathedral * մայր տաճար
+in-laws * խնամիներ
+to be unable to * ի վիճակի չլինել
+tuition * ուսման վարձ
+tuition * ուսուցում
+to accuse * մեղադրել
+unsympathetic * անբարեխիղճ
+sensitive * զգայուն
+to bounce * ցատկել
+donate * նվիրատվություն
+blood * արյուն
+survey * հարցում
+to shave off * սափրվել
+issue * տարաձայնություն
+fired * հեռացված
+health-related * առողջության հետ կապված
+household * տնային տնտեսություն
+knee * ծունկ
+to sympathize * համակրել
+to sympathize * կարեկցել
+arrangements * պայմանավորվածություն
+to delay * հետաձգել
+to delay * ձգձգել
+absence * բացակայություն
+regardless of * անկախ նրանից
+frequently * հաճախակի
+reported speech * անուղղակի խոսք
+spreadsheet * աղյուսակ
+to reformat * վերափոխել
+agenda * օրակարգ
+acceptance * ընդունելություն
+acceptance * ընդունում
+apology * ներեղություն
+apology * արդարացում
+explanation * բացատրություն
+invitation * հրավեր
+essay * շարադրություն
+highway * մայրուղի
+examination * քննություն
+to stick * հավատարիմ մնալ
+as a matter of fact * փաստացի
+to mention * հիշատակել
+to mention * նշել
+wild * վայրի
+wild * անզուսպ
+wild * ամայի
+phrase * արտահայտություն
+phrase * դարձվածք
+fabulous * առասպելական
+fabulous * դիցաբանական
+fabulous * անհավատալի
+fabulous * անհավանական
+dreadful * սարսափելի
+dreadful * ահավոր
+dreadful * ահեղ
+dreadful * տախտկալի
+to make a request * խնդրել
+to make a request * հարցում անել
+to make a complaint * բողոք ներկայացնել
+to make an excuse * պատճառաբանել
+to make a suggestion * առաջարկել
+to make an invention * հրավիրել
+to give an explanation * բացատրություն տալ
+to give a reason * պատճառաբանել
+to give a solution * լուծում տալ
+to give a suggestion * առաջարկություն անել
+to tell a joke * կատակել
+to tell the truth * ճիշտն ասել
+to tell a story * պատմություն պատմել
+to tell a lie * սուս ասել
+to accept an apology * ընդունել ներեղությունը
+to accept an invitation * ընդունել հրավերը
+to accept an offer * ընդունել առաջարկը
+to accept an idea * ընդունել գաղափարը
+to accept a suggestion * ընդունել առաջարկը
+to refuse an invitation * մերժել հրավերը
+to refuse an apology * մերժել ներեղությունը
+to refuse an offer * մերժել առաջարկը
+to refuse an idea * մերժել գաղափարը
+to refuse a suggestion * մերժել առաջարկը
